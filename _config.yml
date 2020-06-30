@@ -1,0 +1,10 @@
+remote_theme: jekyll/minima
+title: Auton Lab
+header_pages:
+  - about.md
+  - research_areas.md
+  - broader_impact.md
+  - publications.md
+  - resources.md
+  - people.md
+  - careers.md
