@@ -43,6 +43,10 @@ Hospital acquired infections are a significant yet preventable detractor of pati
 <a href="assets/ex2.pdf" target="_blank"><img src="assets/ex2.png" height=200></a>
 <a href="assets/ex3.pdf" target="_blank"><img src="assets/ex3.png" height=200></a>
 
+![EDS Hat v1](assets/ex1.png "EDS Hat v1")(assets/ex1.pdf)
+![EDS Hat v2](assets/ex2.png "EDS Hat v2")(assets/ex2.pdf)
+![EDS Hat v3](assets/ex3.png "EDS Hat v3")(assets/ex3.pdf)
+
 * [EDS-HAT Slide]
 
 * [COVID-19]
