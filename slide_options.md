@@ -4,8 +4,6 @@ title: "Slide Options"
 permalink: /slide_options
 ---
 
-# Slide Options
-
 ## Format 1
 [![EDS Hat v1](assets/ex1.png "EDS Hat v1"){:height="200px"}](assets/ex1.pdf){:target="_blank"}
 
