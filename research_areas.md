@@ -40,13 +40,13 @@ For each project/area slide: [Basic Research Topics], [Resources] (if applicable
 Hospital acquired infections are a significant yet preventable detractor of patient care. According to the CDC 1 in 31 hospital patients [1] suffers from a hospital acquired infection. The Auton lab develops statistical models for joining disparate sources of information such as genetic tests, patient histories, geography, and other epidemiological information for detecting systematic outbreaks and identifying root cause. Leveraging multiple data sources, our algorithms establish corroborating evidence to support or dismiss hypothetical outbreak scenarios, both increasing detectability and speed of analysis while maintaining low false alert rates. References [1]: https://www.cdc.gov/hai/data/index.html
 
 #### Format 1
-[![EDS Hat v1](assets/ex1.png "EDS Hat v1"){:height="200px" box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.32);}](assets/ex1.pdf){:target="_blank"}
+[![EDS Hat v1](assets/ex1.png "EDS Hat v1"){:height="200px"}](assets/ex1.pdf){:target="_blank"}
 
 #### Format 2
-[![EDS Hat v2](assets/ex2.png "EDS Hat v2"){:height="200px" box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.32);}](assets/ex2.pdf){:target="_blank"}
+[![EDS Hat v2](assets/ex2.png "EDS Hat v2"){:height="200px"}](assets/ex2.pdf){:target="_blank"}
 
 #### Format 3
-[![EDS Hat v3](assets/ex3.png "EDS Hat v3"){:height="380px" box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.32);}](assets/ex3.pdf){:target="_blank"}
+[![EDS Hat v3](assets/ex3.png "EDS Hat v3"){:height="380px"}](assets/ex3.pdf){:target="_blank"}
 
 * [EDS-HAT Slide]
 
