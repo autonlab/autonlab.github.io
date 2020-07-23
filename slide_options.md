@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Slide Options"
+permalink: /slide_options
+---
+
 # Slide Options
 
 ## Format 1
