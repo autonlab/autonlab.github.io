@@ -17,9 +17,9 @@ old = None
 bibs = []
 bids = {}
 
-for f in glob.glob('/publications/*.bib'):
+for f in glob.glob('publications/*.bib'):
     
-    with open(join('/publications', f)) as bf:
+    with open(join('publications', f)) as bf:
         parser = bibtexparser.bparser.BibTexParser()
         parser.customization = convert_to_unicode
 
@@ -54,7 +54,7 @@ if (count != scount):
     print("Failed: " + str(count) + " entries and " + str(scount) + " parsed.")
     sys.exit(count - scount)
 
-with open ('/data/pubs.json','w') as jd:
+with open ('data/pubs.json','w') as jd:
     json.dump(bibs,jd)
 
 sys.exit(0)

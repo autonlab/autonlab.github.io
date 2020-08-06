@@ -6,7 +6,7 @@ on:
 jobs:
   update_pubs:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: Update the bib publications
     steps:
       - name: Checkout
         uses: actions/checkout@v2
