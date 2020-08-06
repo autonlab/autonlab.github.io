@@ -54,7 +54,7 @@ if (count != scount):
     print("Failed: " + str(count) + " entries and " + str(scount) + " parsed.")
     sys.exit(count - scount)
 
-with open ('publications.json','w') as jd:
+with open ('/data/pubs.json','w') as jd:
     json.dump(bibs,jd)
 
 sys.exit(0)
