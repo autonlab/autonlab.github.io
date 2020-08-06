@@ -19,7 +19,7 @@ bids = {}
 
 for f in glob.glob('publications/*.bib'):
     
-    with open(f)) as bf:
+    with open(f) as bf:
         parser = bibtexparser.bparser.BibTexParser()
         parser.customization = convert_to_unicode
 
