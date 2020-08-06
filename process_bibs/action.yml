@@ -1,0 +1,8 @@
+name: 'Process BibTex'
+description: 'Process the bib files in the bibtex directory'
+outputs:
+  failed_procs:
+    description: 'Number of failed entries.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
