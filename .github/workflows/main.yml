@@ -13,6 +13,3 @@ jobs:
       - name: Publication Update Step
         uses: ./process_bibs/ # Uses an action in the root directory
         id: bibparse
-      # Use the output from the `hello` step
-      - name: Get the output time
-        run: echo "The time was ${{ steps.hello.outputs.time }}"
