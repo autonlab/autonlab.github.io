@@ -13,7 +13,7 @@ jobs:
       - name: Publication Update Step
         uses: ./process_bibs/ # Uses an action in the root directory
         id: bibparse
-       - name: Commit report
+      - name: Commit report
         run: |
           git config --global user.name 'Bibtex Parser'
           git config --global user.email 'bibtex@example.com'
