@@ -22,7 +22,7 @@ function createMainView() {
 		    height:500,
 		    resizeColumn:true,
 		    pager:"pdpager",
-		url:"data/pubs.json",
+		url:"/data/pubs.json",
 		on:{
 		    "onItemClick":function(id,e,trg){
 			updatePopup(this.getItem(id));

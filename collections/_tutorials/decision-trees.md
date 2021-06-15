@@ -1,0 +1,7 @@
+---
+layout: tutorial
+title: "Decision Trees"
+complexity: 0
+pdf: "/assets/tutorials/dtree18.pdf"
+---
+The Decision Tree is one of the most popular classification algorithms in current use in Data Mining and Machine Learning. This tutorial can be used as a self-contained introduction to the flavor and terminology of data mining without needing to review many statistical or probabilistic pre-requisites. If you're new to data mining you'll enjoy it, but your eyebrows will raise at how simple it all is! After having defined the job of classification, we explain how information gain (next Andrew Tutorial) can be used to find predictive input attributes. We show how applying this procedure recursively allows us to build a decision tree to predict future events. We then look carefully at a question so fundamental, it is the basis for much of all statistics and machine learning theory: how do you choose between a complicated model that fits the data really well and an "Occam's razor" model that is succinct yet not so good at fitting data (this topic will be revisited in later Andrew Lectures, including "Cross-validation" and "VC-dimension"). We also discuss the very wide world of improvements and tweaks on the basic decision tree idea.

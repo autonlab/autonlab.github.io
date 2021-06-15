@@ -1,5 +1,6 @@
 remote_theme: jekyll/minima
 title: Auton Lab
+show_excerpts: true
 header_pages:
   - about.md
   - research_areas.md
@@ -8,3 +9,11 @@ header_pages:
   - resources.md
   - people.md
   - careers.md
+collections_dir: collections
+collections:
+  tutorials:
+    output: true
+    sort_by: complexity
+  staff:
+    output: true
+    sort_by: last_name

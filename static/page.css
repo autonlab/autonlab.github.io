@@ -1,0 +1,32 @@
+.staff-block {
+	border: 2px solid blue;
+	border-radius: 5px;
+	background-color:#8888aa;
+	width: 200px;
+	text-align: center;
+}
+
+.staff-container {
+  	padding: 0;
+	margin: 0;
+  	list-style: none;
+  	-ms-box-orient: horizontal;
+  	display: -webkit-box;
+  	display: -moz-box;
+  	display: -ms-flexbox;
+  	display: -moz-flex;
+  	display: -webkit-flex;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.bio-img {
+	width:150px;
+	height:150px;
+	border-radius: 50%;
+	display: flex;
+	margin:auto;
+  	justify-content: center;
+  	align-items: center;
+}
