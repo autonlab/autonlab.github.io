@@ -29,7 +29,7 @@ function item2HTML(item) {
 	outstr = outstr.concat(value);
 	if (key == 'url')
 	{
-		outstr = outstr.concat('">');
+		outstr = outstr.concat('" target="_blank">');
 		outstr = outstr.concat(value);
 		outstr = outstr.concat('</a>');
 	}
