@@ -2,6 +2,7 @@ remote_theme: jekyll/minima
 title: Auton Lab
 show_excerpts: true
 url: /new_site_poc
+baseurl: /new_site_poc
 header_pages:
   - about.md
   - research_areas.md

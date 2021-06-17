@@ -24,7 +24,7 @@ function createMainView() {
 		    height:500,
 		    resizeColumn:true,
 		    pager:"pdpager",
-		url:"{{ base.url | prepend: site.url }}/data/pubs.json",
+		url:"{{ '/data/pubs.json' | relative_url}}",
 		on:{
 		    "onItemClick":function(id,e,trg){
 			updatePopup(this.getItem(id));
