@@ -18,10 +18,21 @@ function item2HTML(item) {
     for (const [key,value] of Object.entries(item))
     {
 	if (key == 'id') {continue;}
+
 	outstr = outstr.concat("<b>");
 	outstr = outstr.concat(key);
 	outstr = outstr.concat(":</b> ");
+	if (key == 'url')
+	{
+		outstr = outstr.concat('<a href="');
+	}
 	outstr = outstr.concat(value);
+	if (key == 'url')
+	{
+		outstr = outstr.concat('">');
+		outstr = outstr.concat(value);
+		outstr = outstr.concat('</a>');
+	}
 	outstr = outstr.concat("<br/>");
     }
     console.log(outstr);
