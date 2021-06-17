@@ -14,7 +14,7 @@ This file should have the format of lastname_firstname.md in all lowercase.
 
 The contents of the file must follow the format below, and category must be one of *staff*,*founder*, or *student*:
 
-{% raw %}
+```
 ---  
 layout: homepage  
 first_name: Jane  
@@ -25,4 +25,4 @@ image: "/assets/staff/lastname_firstname.png" (can be left out if no image avail
 summary: "This is what shows up on mouseover of the staff member's entry."  
 ---  
 Anything below the three dashes here is shown when the name is clicked. This can be used to make a simple(or complex!) homepage, using HTML or jekyll markdown.  
-{% endraw %}
+```
