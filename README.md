@@ -4,7 +4,23 @@ If you are reading this, you are likely attempting to update or maintain the Aut
 
 ## Updating the News Feed
 
-## adding and editing career entries
+The news feeds are located under the *collections* directory, under the *_posts* subdirectory. Each file *MUST* be titled in the format YYYY-MM-DD-XXXX.md, with XXXX a word or two description of the post. The actual post follows the format:
+
+```
+---
+layout: post
+title:  "Title here"
+date:   YYYY-MM-DD HH:MM:SS -0400
+categories: site news
+excerpt: "Insert what appears on the front page here."
+---
+
+Place the text of the full news article here, if different from the excerpt. This can be forematted like an individual page with images and so on, using the markup language.
+```
+
+Currently, only the "site news" category is used.
+
+## Adding and Editing career entries
 
 ## Adding to staff
 

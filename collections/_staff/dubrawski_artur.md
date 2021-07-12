@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 first_name: Artur
 last_name: Dubrawski
 title: Research Professor,<br/>CMU School of Computer Science

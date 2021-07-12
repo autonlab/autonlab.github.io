@@ -13,6 +13,9 @@ header_pages:
   - careers.md
 collections_dir: collections
 collections:
+  posts:
+    output: true
+    sort_by: date
   tutorials:
     output: true
     sort_by: complexity

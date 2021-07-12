@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div>
+<span style="font-size:x-large;">{{page.first_name}} {{page.last_name}} <span style="font-size:60%">{{page.title}}</span></span>
+
+</div>
+
+<div style="min-height:150px;background-color:lightgrey;">
+{{page.summary}}
+<div style="float:right;">
+{% if page.image %}
+<img class="bio-img" src="{{page.image | relative_url}}" alt="{{first_name}} {{last_name}}">
+{% else %}
+<div class="bio-img">
+No Image
+</div>
+{% endif %}
+</div>
+</div>
+
+{{content}}

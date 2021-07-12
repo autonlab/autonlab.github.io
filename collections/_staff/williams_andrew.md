@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 first_name: Andrew
 last_name: Williams
 title: Developer

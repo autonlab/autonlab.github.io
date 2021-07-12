@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 first_name: Gus
 last_name: Welter
 title: Developer
