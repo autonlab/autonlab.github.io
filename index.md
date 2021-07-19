@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "Home"
+title: "The Auton Lab"
+tagline: "Developing Artificial Intelligence for practical solutions to real world problems"
+hero: "/assets/images/showcase.jpg"
 permalink: /
 ---
 
-Welcome to the Auton Lab website
-
-![Auton Lab](assets/auton_logo.png "Auton Lab")
+![Auton Lab](assets/images/auton_logo.png "Auton Lab")
 
 <h1>Latest News</h1>
 

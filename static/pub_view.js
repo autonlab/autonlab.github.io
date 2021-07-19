@@ -8,10 +8,11 @@ function createMainView() {
 		type:"header",template:"Auton Lab Publication Database"
 	    },
 	    {
-//		view:"scrollview", 
-//		id:"scrollview", 
-//		scroll:"y",
-//		body:{
+	    rows: [{
+		view:"scrollview", 
+		id:"scrollview", 
+		scroll:true,
+		body:{
 		    view:"datatable",
 		    id:"pubtable",
 		columns:[
@@ -21,7 +22,6 @@ function createMainView() {
 			{id:"author",header:["Author",{content:"textFilter"}],fillspace:true,sort:"string"}
 		    ],
 		    tooltip:true,
-		    height:500,
 		    resizeColumn:true,
 		    pager:"pdpager",
 		url:"{{ '/data/pubs.json' | relative_url}}",
@@ -31,11 +31,13 @@ function createMainView() {
 			$$("pubpopup").show();
 		    }
 		}
-//		},
-//		height:400,
-//		autowidth:true
+		},
+		height:300,
+		autowidth:true
 	    },
 	    pdpager
+	    ]
+	    }
 	]
     }
 }

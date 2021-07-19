@@ -1,5 +1,6 @@
 remote_theme: jekyll/minima
 title: Auton Lab
+title_img: /assets/images/auton_logo.png
 show_excerpts: true
 url: /new_site_poc
 baseurl: /new_site_poc
@@ -13,9 +14,8 @@ header_pages:
   - careers.md
 collections_dir: collections
 collections:
-  posts:
-    output: true
-    sort_by: date
+  careers:
+    output: true    
   tutorials:
     output: true
     sort_by: complexity
