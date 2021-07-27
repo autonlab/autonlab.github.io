@@ -22,3 +22,5 @@ collections:
   staff:
     output: true
     sort_by: last_name
+  research:
+    output: true

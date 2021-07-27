@@ -38,5 +38,15 @@
 	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: cover; /* Resize the background image to cover the entire container */
-	height:300px;
+
+}
+
+.page-wrapper {
+  margin-right: auto; 
+  margin-left:  auto; 
+
+
+
+  padding-right: 10px;
+  padding-left:  10px;
 }
