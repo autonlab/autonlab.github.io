@@ -48,6 +48,12 @@
 	color:#FFFFFF;
 }
 
+.career-div {
+	border: 2px solid blue;
+	border-radius:5px;
+	padding:1px;
+}
+
 .page-wrapper {
   margin-right: auto; 
   margin-left:  auto; 

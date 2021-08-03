@@ -9,9 +9,9 @@ The Auton Lab is always looking for qualified, driven individuals to join our te
 {% assign filtered = site.careers | where:'status','open' %}
 
 {% for job in filtered %}
-<div data-bs-toggle="tooltip" data-bs-placement="top" title="{{job.summary}}">
+<div data-bs-toggle="tooltip" data-bs-placement="top" class="career-div" title="{{job.summary}}">
 
-	<h4>{{job.title}}<a href="{{ job.apply }}">[APPLY]</a></h4>
+	<h4>{{job.title}}<a class="btn btn-info" href="{{ job.apply }}">APPLY</a></h4>
 	<p>{{job.content}}</p>
 </div>
 {% endfor %}
