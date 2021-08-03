@@ -8,6 +8,9 @@
     <nav class="navbar navbar-expand-lg navbar-light" style="background: linear-gradient(#888888, #ffffff);">
 	  <div class="container-fluid">
 		<a class="navbar-brand" href="{{ "/" | relative_url }}">
+			{%- if site.brand_img -%}
+		    <img src="{{site.brand_img | relative_url}}" alt="{{site.brand | escape}}" style="height:20px">
+    		{%-endif-%}
 		    {%- if site.title_img -%}
 		    <img src="{{site.title_img | relative_url}}" alt="{{site.title | escape}}" style="width:60px">
     		{%- else -%}{{ site.title | escape }}{%-endif-%}

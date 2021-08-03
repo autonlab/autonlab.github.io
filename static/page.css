@@ -41,6 +41,13 @@
 
 }
 
+.slide-div {
+	background-color:#222222AA;
+}
+.slide-div a {
+	color:#FFFFFF;
+}
+
 .page-wrapper {
   margin-right: auto; 
   margin-left:  auto; 

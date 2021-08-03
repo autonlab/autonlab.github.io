@@ -4,6 +4,14 @@ title: "Research Areas"
 permalink: /research_areas
 ---
 
+{% for slide in site.research %}
+
+# {{slide.title}}
+
+{{slide.summary}}
+
+{% endfor %}
+
 # Health Care
 
 ## Clinical Research

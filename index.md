@@ -6,7 +6,7 @@ hero: "/assets/images/showcase.jpg"
 permalink: /
 ---
 <div class="home">
-  <div class="hero container-fluid">
+  <div class="hero container-fluid text-center">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>    
   {%- endif -%}
@@ -25,7 +25,7 @@ permalink: /
         		<img src="{{slide.splash | relative_url}}" class="d-block w-100" alt="{{slide.title}}">
         	</div>
         	{%endif%}
-        	<div class="col align-self-center">
+        	<div class="col align-self-center slide-div">
       			<h4><a href="{{slide.url | relative_url}}">{{slide.title}}</a></h4>
       			<br/>
       			<p>{{slide.summary}}</p>
