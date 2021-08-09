@@ -1,3 +1,7 @@
+body {
+	background-image: url("images/grey.png");
+}
+
 .staff-block {
 	border: 2px solid blue;
 	border-radius: 5px;
@@ -60,6 +64,4 @@
 
 
 
-  padding-right: 10px;
-  padding-left:  10px;
 }
