@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: research
 title:  "Usability"
 summary: "The Auton Lab is dedicated to helping organizations and individuals make use of machine learning and automation principles to better ourselves and the lives of everyone. We create software and guidelines that makes it easier for anyone to perform complex data analysis, and to refine techniques to better use the data available to them."
 splash: "/assets/images/usability.jpg"
@@ -21,9 +21,9 @@ Vestibulum ultrices tellus id enim tempor, ut malesuada risus dapibus. In hac ha
 
 Sed auctor mi odio, porta bibendum libero volutpat ac. Morbi eu sapien quis mauris luctus malesuada. Phasellus cursus egestas fringilla. Vivamus tristique, justo sed venenatis egestas, nibh ante suscipit massa, eget aliquet ligula ante vitae ex. Mauris fermentum, diam tristique semper aliquet, massa nunc imperdiet sapien, sit amet elementum lorem risus sollicitudin lorem. Pellentesque at lorem tristique, imperdiet felis eget, consectetur tortor. Mauris vel purus nibh. Proin varius ligula nisl, sollicitudin efficitur elit hendrerit in. Donec lectus nisl, ultricies sit amet commodo eget, pellentesque at velit. Integer ullamcorper eleifend felis vitae consequat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus in nibh cursus, aliquam nunc eu, sollicitudin mauris. Etiam maximus lorem nunc, in eleifend sapien consectetur sit amet. Aliquam sed massa id odio eleifend imperdiet. Sed ac diam sed ante accumsan volutpat. Maecenas sed vehicula purus, in aliquet dolor. 
 
-## Auto<sup>n</sup>ML
 
-<img src="{{'/assets/images/AutonML.png' | relative_url}}" alt="AutonML Logo">
+
+<img id="autonml" src="{{'/assets/images/AutonML.png' | relative_url}}" alt="AutonML Logo">
 
 <img src="{{'/assets/images/AutonML2.png' | relative_url}}" alt="AutonML Overview" style="float:right;width:50%">
 
