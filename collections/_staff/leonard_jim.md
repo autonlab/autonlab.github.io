@@ -2,9 +2,8 @@
 layout: homepage
 first_name: Jim
 last_name: Leonard
-title: Developer
+title: Research Programmer
 category: staff
-summary: "My name is Jim."
+summary: "Research Programmer"
 ---
 
-## As I said, my name is Jim!

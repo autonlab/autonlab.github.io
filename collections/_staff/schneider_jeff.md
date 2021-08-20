@@ -1,7 +1,7 @@
 ---
 layout: homepage
-first_name: Artur
-last_name: Dubrawski
+first_name: Jeff
+last_name: Schneider
 title: Research Professor
 category: founder
 summary: "Research Professor"

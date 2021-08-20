@@ -1,7 +1,7 @@
 ---
 layout: homepage
-first_name: Gus
-last_name: Welter
+first_name: Vedant
+last_name: Sanil
 title: Research Programmer
 category: staff
 summary: "Research Programmer"
