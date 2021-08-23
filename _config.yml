@@ -7,13 +7,12 @@ show_excerpts: true
 url: /new_site_poc
 baseurl: /new_site_poc
 header_pages:
-  - about.md
   - research_areas.md
-  - broader_impact.md
   - publications.md
   - resources.md
   - people.md
   - careers.md
+  - intranet.md
 collections_dir: collections
 collections:
   careers:

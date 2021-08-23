@@ -61,7 +61,7 @@ body {
 .page-wrapper {
   margin-right: auto; 
   margin-left:  auto; 
-
-
-
+}
+.content-wrapper {
+  padding:5px;
 }
