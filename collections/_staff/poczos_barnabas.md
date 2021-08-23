@@ -3,7 +3,7 @@ layout: homepage
 first_name: Barnabas
 last_name: Poczos
 title: Associate Professor
-category: founder
+category: faculty
 summary: "Associate Professor"
 ---
 

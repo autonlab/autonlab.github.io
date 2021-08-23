@@ -3,7 +3,7 @@ layout: homepage
 first_name: Artur
 last_name: Dubrawski
 title: Research Professor
-category: founder
+category: faculty
 summary: "Research Professor"
 ---
 

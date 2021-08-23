@@ -3,7 +3,7 @@ layout: homepage
 first_name: Jeff
 last_name: Schneider
 title: Research Professor
-category: founder
+category: faculty
 summary: "Research Professor"
 ---
 

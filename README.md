@@ -28,7 +28,7 @@ If you wish to add a staff member profile, it's very easy. Simply create a file 
 
 This file should have the format of lastname_firstname.md in all lowercase.
 
-The contents of the file must follow the format below, and category must be one of *staff*,*founder*, or *student*:
+The contents of the file must follow the format below, and category must be one of *staff*,*faculty*, *alumni* or *student*:
 
 ```
 ---  
