@@ -21,8 +21,10 @@ permalink: /people
 {% endfor %}
 </div>
 
-# Alumni
-{% assign sortedStaff = site.staff | where:'category','alumni' | sort: 'last_name' %}
+
+# Graduate Students
+
+{% assign sortedStaff = site.staff | where:'category','student' | sort: 'last_name' %}
 <div class="staff-container">
 {% for member in sortedStaff %}
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
@@ -39,7 +41,8 @@ permalink: /people
 {% endfor %}
 </div>
 
-# Researchers
+
+# Research Staff
 {% assign sortedStaff = site.staff | where:'category','staff' | sort: 'last_name' %}
 <div class="staff-container">
 {% for member in sortedStaff %}
@@ -57,9 +60,8 @@ permalink: /people
 {% endfor %}
 </div>
 
-# Graduate Students
-
-{% assign sortedStaff = site.staff | where:'category','student' | sort: 'last_name' %}
+# Alumni
+{% assign sortedStaff = site.staff | where:'category','alumni' | sort: 'last_name' %}
 <div class="staff-container">
 {% for member in sortedStaff %}
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
