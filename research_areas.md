@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Research Areas"
-permalink: /research_areas
 ---
 
 {% for slide in site.research %}

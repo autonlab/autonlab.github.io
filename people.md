@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "People"
-permalink: /people
 ---
 # Faculty
 {% assign sortedStaff = site.staff | where:'category','faculty' | sort: 'last_name' %}

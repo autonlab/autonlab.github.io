@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Machine Learning Tutorials"
-permalink: /tutorials
 ---
 
 {% for tut in site.tutorials %}

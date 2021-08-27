@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Publications"
-permalink: /publications
 ---
 
 <div id="pubdb_div" class="page-wrapper" style="width:90%"></div>

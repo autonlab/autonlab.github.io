@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Resources"
-permalink: /resources
 ---
 
 ## [Machine Learning Tutorials]({{'/tutorials' | relative_url}})
