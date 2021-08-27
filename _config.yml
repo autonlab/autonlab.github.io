@@ -12,7 +12,6 @@ header_pages:
   - resources.md
   - people.md
   - careers.md
-  - intranet.md
 collections_dir: collections
 collections:
   careers:
