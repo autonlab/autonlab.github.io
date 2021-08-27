@@ -4,8 +4,8 @@ title_img: /assets/images/auton_logo.png
 brand: Carnegie Mellon University
 brand_img: /assets/images/cmu-logo-2.png
 show_excerpts: true
-url: /new_site_poc
-baseurl: /new_site_poc
+url: /
+baseurl: /
 header_pages:
   - research_areas.md
   - publications.md
