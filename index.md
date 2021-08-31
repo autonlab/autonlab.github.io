@@ -6,13 +6,6 @@ hero: "/assets/images/showcase.jpg"
 permalink: /
 ---
 
----
-layout: home
-title: "The Auton Lab"
-tagline: "Developing Artificial Intelligence for practical solutions to real world problems"
-hero: "/assets/images/showcase.jpg"
-permalink: /
----
 
 <div class="home">
   <div class="hero container-fluid text-center">
