@@ -7,3 +7,6 @@ title: "Resources"
 
 Andrew Moore has written up a number of extremely helpful Tutorials. Visit the <a href="{{ '/tutorials.html' | relative_url}} ">Tutorials</a> page to get an idea of what Machine Learning is all about!
 
+
+(this is a test)
+
