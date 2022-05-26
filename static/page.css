@@ -35,22 +35,6 @@ body {
   	align-items: center;
 }
 
-.hero {
-    background-image: url("images/showcase.jpg");
-	color:#ffffff;
-	background-color:#cccccc;
-	background-position: center; /* Center the image */
-	background-repeat: no-repeat; /* Do not repeat the image */
-	background-size: cover; /* Resize the background image to cover the entire container */
-
-}
-
-.slide-div {
-	background-color:#222222AA;
-}
-.slide-div a {
-	color:#FFFFFF;
-}
 
 .career-div {
 	border: 2px solid blue;
