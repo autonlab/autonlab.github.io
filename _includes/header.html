@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     
-    <nav class="navbar navbar-expand-lg navbar-light" style="background:linear-gradient(#444444, #dddddd);max-height:70px;min-height:40px;">
+    <nav class="navbar navbar-expand-lg navbar-light" style="max-height:70px;min-height:40px;">
 	  <div class="container-fluid">
 		<a class="navbar-brand" href="{{ "/" | relative_url }}">
 			{%- if site.brand_img -%}
@@ -18,7 +18,7 @@
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		  <span class="navbar-toggler-icon"></span>
 		</button>
-		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+		<div class="collapse navbar-collapse" id="navbarSupportedContent" style="z-index: 99999; background-color: white;">
 		  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 		  {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
