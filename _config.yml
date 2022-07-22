@@ -8,8 +8,6 @@ url: /
 baseurl: /
 header_pages:
   - research_areas.md
-  - application_areas.md
-  - impact_areas.md
   - publications.md
   - resources.md
   - people.md
@@ -26,7 +24,3 @@ collections:
     sort_by: last_name
   research:
     output: true
-  applications:
-    output: true
-  impact:
-    output: true 
