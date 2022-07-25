@@ -9,11 +9,11 @@ projects:
     anchor: phs
     blurb: ""
   -
-	name: Critical Care Medicine
-	anchor: ccm
-	blub: ""
+    name: Critical Care Medicine
+    anchor: ccm
+    blurb: ""
   -
-	name: Biomedical Imaging
-	anchor: bmi
-	blurb: ""
+    name: Biomedical Imaging
+    anchor: bmi
+    blurb: ""
 ---
