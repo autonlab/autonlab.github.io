@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Application Areas"
+title: "Applications"
 ---
 The Auton Lab works on theory, algorithms, and applications.
 The lab is unique in that identified needs in real-world application domains are backpropagated to inform design choices in theory and algorithms.
