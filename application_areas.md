@@ -18,7 +18,7 @@ There are four broad application areas that motivate much of our research at the
    	{%endif%}
   	<div class="col align-self-center">
 		<p>{{slide.summary}}</p>
-		<h4>Projects</h4>
+		<h4>Highlighted Work</h4>
 		<ul>
 		{% for pro in slide.projects %}
 			<li><a href="{{slide.url | relative_url}}#{{pro.anchor}}"><h5>{{pro.name}}</h5></a> - {{pro.blurb}}</li>
