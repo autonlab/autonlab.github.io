@@ -11,7 +11,7 @@ projects:
   -
     name: Field Medicine
     anchor: tracir
-    blurb: "Critical Care Medicine, from initial incident and response to emergency room discharge or hospital admission in urban, rural, and field settings, is a challenging domain for machine learning. These incidents arise in routine emergency medicine operations as well as in large scale crises, inlcluding natural disasters, mass casualty incidents, emerging pandemics, and terrorist events, each putting unique demands and stresses on provision of the necessary care. The nature of the emergency involves unpredictability of demand for services, varying severity of cases, need for rapid assessment, and required persistent availability of stand-by resources. It puts a physical, cognitive and emotional strain on performers, exacerbating risk of human errors."
+    blurb: "Autonomous delivery of trauma care in the field is the Auton Lab contribution to the Trauma Care in a Rucksack (TRACIR) initiative, which is a joint research collaboration between the University of Pittsburgh and Carnegie Mellon University. The goal is to produce an autonomous trauma care capability for prolonged casualty care in the field. The envisioned autonomous capability is to be used to treat injured soldiers and minimize casualties in remote operations scenarios where medical equipment and expertise may be in short supply."
   -
     name: Radiation Safety
     anchor: radiation
