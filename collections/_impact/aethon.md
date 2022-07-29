@@ -2,7 +2,7 @@
 layout: post
 title:  "Hospital Robots"
 splash: "/assets/images/usability.jpg"
-summary: "Aethon is a company that was founded by Artur Dubrawski, current director of the Auton Lab"
+summary: "Artur Dubrawski, current director of the Auton Lab, was an early CTO of Aethon."
 ---
 
 [Aethon](https://aethon.com/)
