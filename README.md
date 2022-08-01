@@ -2,6 +2,15 @@
 
 If you are reading this, you are likely attempting to update or maintain the Auton Lab website in some fashion.  Read on for some quick howtos.
 
+## I want to tweak text on an existing page
+
+If you want to make straightforward changes to text (e.g. spelling error or new sentence in paragraph), you can make them directly on Github.
+Find the file you want to change and use the edit button (pencil).
+Changes to text are likely safe to commit directly to the master branch.
+
+Note that if you are making larger changes to the text, like adding new elements to a list, you will need to pay attention to markdown syntax.
+In these cases, it would be safer to create a new branch for your commit and start a pull request.
+
 ## Updating the News Feed
 
 The news feeds are located under the *collections* directory, under the *_posts* subdirectory. Each file *MUST* be titled in the format YYYY-MM-DD-XXXX.md, with XXXX a word or two description of the post. The actual post follows the format:
