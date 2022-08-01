@@ -42,3 +42,12 @@ summary: "This is what shows up on mouseover of the staff member's entry."
 ---  
 Anything below the three dashes here is shown when the name is clicked. This can be used to make a simple(or complex!) homepage, using HTML or jekyll markdown.  
 ```
+
+## Adding a new collection and linking to home page header
+
+If you wish to add a new tab on the top of the home screen that links to a new collection, there are a few things you need to do.
+
+1) create a new directory under collections/ that begins with an underscore (e.g. /_newCollection/)
+2) Add new elements to this directory that form the colleciton. As a template, you may copy elements from another collection, e.g. /_research/, and change text as needed
+3) create a new markdown file newCollection.md in the same directory as this README (If you want it to look like other collections on the site, copy an existing collection, e.g. application_areas.md).  The markdown file name and your collection directory name do not need to match
+4) update _config.yml with these changes. Add newCollection.md to the list of header_pages in the order that you want it to appear alongside other headers.  Also add the new collection directory with an output: true flag (like other collections)
