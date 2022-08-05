@@ -2,7 +2,7 @@
 layout: research
 title:  "Health Care & Public Health"
 summary: "Auton Lab performs research at the intersection of artificial intelligence and healthcare.  Research efforts range from mining new biomedical imaging modalities for learnable structure, to forecasting cardio-respiratory instabilities from continuous vital sign measurements, to public health efforts aimed at modeling outbreak detection and testing policy interventions to determine a course of action."
-splash: "/assets/images/health-care.jpg"
+splash: "/assets/images/auviewer_screenshot.png"
 projects:
   - 
     name: Public Health Surveillance
@@ -17,3 +17,11 @@ projects:
     anchor: bmi
     blurb: "We develop algorithms to leverage structure in images and videos. This intelligent featurization enables interpretable, downstream modeling. "
 ---
+
+
+<!-- Notes
+EDS-HAT
+COVID dashboard
+Emma's work with estimating circulation from videos
+summary: "Hospital acquired infections are a significant yet preventable detractor of patient care. The Auton lab develops statistical models for joining disparate sources of information such as genetic tests, patient histories, geography, and other epidemiological information for detecting systematic outbreaks and identifying root cause. Leveraging multiple data sources, our algorithms establish corroborating evidence to support or dismiss hypothetical outbreak scenarios, both increasing detectability and speed of analysis while maintaining low false alert rates."
+-->

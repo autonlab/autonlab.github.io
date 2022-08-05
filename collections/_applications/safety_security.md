@@ -11,17 +11,21 @@ projects:
   -
     name: Field Medicine
     anchor: tracir
-    blurb: "Autonomous delivery of trauma care in the field is the Auton Lab contribution to the Trauma Care in a Rucksack (TRACIR) initiative, which is a joint research collaboration between the University of Pittsburgh and Carnegie Mellon University. The goal is to produce an autonomous trauma care capability for prolonged casualty care in the field. The envisioned autonomous capability is to be used to treat injured soldiers and minimize casualties in remote operations scenarios where medical equipment and expertise may be in short supply."
+    blurb: "Using cutting edge research and technologies, CMU develops techniques and systems intended to rapidly triage and stabilize injuries sustained in high-risk areas, particularly the battlefield or during military operations. Automated diagnosis and detection of injuries can quickly identify problems, with the eventual goal of automatic medical kits to stabilize soldiers and victims of disasters until qualified help can arrive."
   -
     name: Radiation Safety
     anchor: radiation
-    blurb: "We develop algorithms for both detection and decision support in radiation safety adjudication. Using our flagship Bayesian Aggregation method for source detection and characterization, we are developing fast and efficient tools for situational awareness and safety applications. Our work focuses on robust methods, multi-sensor and multi-modal data fusion, and decision support infrastructure for rapidly processing alerts. Other work in the lab focuses on increasing efficacy and safety of nuclear fusion reactors using Deep Reinforcement Learning."
+    blurb: "We develop algorithms for both detection and decision support in nuclear threat identification. Using our flagship Bayesian Aggregation method for source detection and characterization we are developing fast and efficient tools for situational awareness and safety applications. Our work focuses on robust methods, multi-sensor and multi-modal data fusion, and decision support infrastructure for rapidly processing alerts."
 ---
 
 
 Photo by <a href="https://unsplash.com/@milandegraeve?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">milan degraeve</a> on <a href="https://unsplash.com/s/photos/first-aid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 
-
+<!-- Notes
+Army PMx project
+TRACIR
+ERNIE
+-->
 
   
