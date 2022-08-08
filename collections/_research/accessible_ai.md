@@ -31,8 +31,8 @@ projects:
 
 
 Increasingly, state-of-the-art AI systems require infrastructure which makes their application limited to organizations with vast amounts of resources.
-Auton Lab works to make these data-hungry learning paradigms more efficient such that our models may be applied to contexts where abundance of data is not easily obtained, allowing those who would otherwise be left behind to unlock the promise of AI in their critical contexts.
-Auton Lab also works to automate much fo the process of cleaning data, discovering learnable parameters, training models, and tuning hyperparameters.
+Auton Lab works to make these data-hungry learning paradigms more efficient so that our models may be applied to contexts where abundance of data is not easily obtained, allowing those who would otherwise be left behind to unlock the promise of AI in their critical contexts.
+Auton Lab also works to automate much for the process of cleaning data, discovering learnable parameters, training models, and tuning hyperparameters.
 Such work reduces the need for experienced data scientists to be involved in the model development process, and gives more agency to people who want to use AI in effective ways.
 
 In developing AI systems for subject matter experts (SMEs), it is important to demonstrate that AI learns a policy that resonates with human decision making in easy-to-adjudiate cases.
