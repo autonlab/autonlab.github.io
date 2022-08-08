@@ -23,7 +23,7 @@ projects:
   -
     name: Explainable AI
     anchor: xai
-    blurb: "If understanding, performance, and trust are integral to the adoption of AI in new, mission-critical fields, then a model's inability to rationalize its behavior is rate-limiting. If users cannot supervise AI systems, there is a non-trivial chance that AI will inflict otherwise easily preventable harm to humans. Auton Lab develops a variety of tools which are intended to give the developers of AI systems a better understanding of what their models actually learn."
+    blurb: "If understanding, performance, and trust are integral to the adoption of AI in new, mission-critical fields, a model's inability to rationalize its behavior is rate-limiting. If users cannot supervise AI systems, there is a non-trivial chance that AI will inflict otherwise easily preventable harm to humans. Auton Lab develops a variety of tools which are intended to give the developers of AI systems a better understanding of what their models actually learn."
 ---
 <img id="autonml" src="{{'/assets/images/AutonML.png' | relative_url}}" alt="AutonML Logo">
 
