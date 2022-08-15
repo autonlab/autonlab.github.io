@@ -2,7 +2,7 @@
 layout: research
 title:  "Making AI Usable & Accessible"
 summary: "AI research that is informed by constant exposure to real-world, domain-specific constraints including resource limits, privacy considerations, and user trust & understanding." 
-splash: "/assets/images/showcase.jpg"
+splash: "/assets/images/automl_pipeline.png"
 projects:
   - 
     name: Automated Machine Learning

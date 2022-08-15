@@ -2,7 +2,7 @@
 layout: research
 title:  "Supporting Scientific Discovery"
 summary: "Blank"
-splash: "/assets/images/showcase.jpg"
+splash: "/assets/images/pmx_telemanom.png"
 projects:
   - 
     name: Data Mining
