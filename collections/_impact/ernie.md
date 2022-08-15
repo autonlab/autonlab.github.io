@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ERNIE"
-splash: "/assets/images/usability.jpg"
+splash: "/assets/images/rpm.png"
 summary: "Description of the impact of the project"
 ---
 

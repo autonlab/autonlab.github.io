@@ -2,7 +2,7 @@
 layout: research
 title:  "Pragmatic Deep Learning"
 summary: "Research at the intersection of the benefits of deep learning and real-world constraints that limit the effectiveness of standard methods"
-splash: "/assets/images/showcase.jpg"
+splash: "/assets/images/censoring_fig.svg"
 projects:
   - 
     name: Hybrid Forecasting

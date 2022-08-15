@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Industry"
-splash: "/assets/images/usability.jpg"
+splash: "/assets/images/psychogenics_logo.jpg"
 summary: "Principals at Auton Lab are partners with industrial researchers"
 ---
 

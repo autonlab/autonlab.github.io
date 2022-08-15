@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Start-ups"
-splash: "/assets/images/usability.jpg"
+splash: "/assets/images/marinus_logo.jpg"
 summary: "Concepts developed at Auton Lab spin off into successful startups"
 ---
 

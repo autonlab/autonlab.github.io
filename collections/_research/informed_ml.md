@@ -2,7 +2,7 @@
 layout: research
 title:  "Informed Machine Learning"
 summary: "Auton Lab research frequently involves ways to incorporate expert knowledge into AI systems. This ranges from research on how to effectively have experts label vast amounts of data, to incorporating feedback in active learning frameworks, to formal verification of model adherence to domain-specific constraints and design specifications. We take AI outside the cozy spot of data-driven approach. Standard AI relies primarily on what can be learned from data, however, data is just a limited projection of reality. Auton lab is working on multiple exciting avenues to make AI and ML smarter."
-splash: "/assets/images/showcase.jpg"
+splash: "/assets/images/tea_spec.png"
 projects:
   - 
     name: Weak Supervision
