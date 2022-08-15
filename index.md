@@ -18,7 +18,7 @@ permalink: /
 <div id="researchCarousel" class="carousel slide" data-bs-ride="carousel">
 
   <div class="carousel-inner">
-    {% for slide in site.research %}
+    {% for slide in site.applications %}
     {% assign rem = forloop.index | modulo: 2 %}
     <div class="carousel-item{% if forloop.first %} active{% endif %}">
     	<div class="row">
