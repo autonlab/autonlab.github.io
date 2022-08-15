@@ -32,9 +32,10 @@
 }
 
 .hero {
-    background-image: url("images/showcase.jpg");
-	color:#ffffff;
-	background-color:#cccccc;
+    /*background-image: url("images/showcase.jpg"); */
+	color:#000000;
+	/*background-color:#67a9f0b5;*/
+	background-color:#FFFFFF;
 	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: cover; /* Resize the background image to cover the entire container */
@@ -42,10 +43,13 @@
 }
 
 .slide-div {
-	background-color:#222222AA;
+	/*background-color:#222222AA;*/
+	/*background-color:#67a9f0b5;*/
+	background-color:#FFFFFF;
 }
 .slide-div a {
-	color:#FFFFFF;
+	/*color:#FFFFFF;*/
+	color:#000000;
 }
 
 .career-div {
