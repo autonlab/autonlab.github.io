@@ -12,6 +12,10 @@ projects:
     name: Physics
     anchor: phys
     blurb: "Physics-informed machine learning builds good models faster. The lab works with physicists to make fundamental contributions to physical science, ranging from reinforcement learning for plasma control policies for nuclear fusion to high fidelity synthetic data generation governed by the laws of physics."
+  -
+    name: Materials Discovery
+    anchor: mats
+    blurb: "Jeff's project"
 ---
 
 

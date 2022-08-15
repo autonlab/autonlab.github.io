@@ -9,9 +9,13 @@ projects:
     anchor: argo
     blurb: "Auton lab makes significant contributions to autonomous vehicle technology ranging from reinforcement learning for motion planning to developing systems to deploy the technology in the real world."
   -
-    name: Medical Devices
+    name: Automated Medicine
     anchor: medv
-    blurb: "Systems that operate in clinical theaters take many forms. Our work ranges from technology that supports physical robots that perform needle insertion to devices that measure vitals of patients in intensive care and forecast future episodes that will require emergency care."
+    blurb: "Systems that operate in clinical theaters take many forms. Our work ranges from technology that supports physical robots that perform needle insertion to devices that measure vitals of patients in intensive care and forecast future episodes that will require emergency care. We develop systems that perform closed loop control of medial procedures such as fluid resuscitation, and monitoring quality of data collected at the bedside and reliability of healthcare equipment."
+  -
+    name: Automated Manufacturing
+    anchor: boeing
+    blurb: "[blank]"
 ---
 
 

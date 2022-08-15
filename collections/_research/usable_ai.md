@@ -1,6 +1,6 @@
 ---
 layout: research
-title:  "Accessible AI"
+title:  "Making AI Usable & Accessible"
 summary: "AI research that is informed by constant exposure to real-world, domain-specific constraints including resource limits, privacy considerations, and user trust & understanding." 
 splash: "/assets/images/showcase.jpg"
 projects:
@@ -9,7 +9,7 @@ projects:
     anchor: autonml
     blurb: "AutonML augments the capacity of Data Scientists by automating searches for plausible modeling process designs. It can help address shortages of qualified personnel and boost productivity of current staff by automatically learning what is learnable from data."
   -
-    name: Federated Learning
+    name: Distributed AI
     anchor: federated
     blurb: "Federated Learning supports machine learning in a distributed manner, by learning on local data and updating global model parameters."
   -
@@ -42,8 +42,6 @@ Auton Lab develops methods for determining whether a trained model exhibits unfa
 
 
 <!-- Notes
-
-Ben, Mononito, Nick, ...everyone really
 
 Documentation available at: [https://cmu-ta2.readthedocs.io/en/master/index.html](https://cmu-ta2.readthedocs.io/en/master/index.html)
 -->
