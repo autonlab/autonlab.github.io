@@ -7,3 +7,6 @@ category: staff
 summary: "Senior Systems/Software Analyst"
 ---
 
+[Homepage][1]
+
+[1]:<http://predrag.freeshell.org>

@@ -8,3 +8,6 @@ summary: "PhD Student"
 image: "/assets/staff/morales_cecilia.jpg"
 ---
 
+[Homepage][1]
+
+[1]:<http://cgmorale.github.io>
