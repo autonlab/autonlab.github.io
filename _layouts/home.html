@@ -29,6 +29,9 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt | markdownify}}
         {%- endif -%}
+		{%- if post.image -%}
+		<img src={{post.image}} width="300px" />
+		{%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
