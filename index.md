@@ -1,50 +1,41 @@
 ---
 layout: home
-title: "Auton Lab"
-tagline: "Developing Artificial Intelligence for practical solutions to real world problems"
-hero: "/assets/images/showcase.jpg"
+carousel: "Areas where we are making impact"
 permalink: /
 ---
 
 
-<div class="home">
-  <div class="hero container-fluid text-center">
-  {%- if page.title -%}
-    <h1>{{ page.title }}</h1>    
-  {%- endif -%}
-  {%- if page.tagline -%}
-    <h3>{{ page.tagline }}</h3>
-  {%- endif -%}
-<div id="researchCarousel" class="carousel slide" data-bs-ride="carousel">
-
-  <div class="carousel-inner">
-    {% for slide in site.applications %}
-    {% assign rem = forloop.index | modulo: 2 %}
-    <div class="carousel-item{% if forloop.first %} active{% endif %}">
-    	<div class="row">
-    		{% if rem == 0 %}
-			<div class="col">
-        		<img src="{{slide.splash | relative_url}}" class="d-block w-100" alt="{{slide.title}}">
+<div class="home" stye="width:75%;justify-content:center">
+ <div class="hero container-fluid text-center">
+   <img id="autonLogo" src="{{'/assets/images/auton_logo.png' | relative_url}}" style="text-align: center;max-width:400px;width:100%;" alt="Auton Lab">
+    <br /> 
+    <br /> 
+    <br /> 
+    {%- if page.title -%}
+      <h1>{{ page.title }}</h1>    
+    {%- endif -%}
+    <h4>Intelligent systems that work, are useful, and make economic sense.</h4>
+    <p>We are an academic lab that studies theory, algorithms, and applications of Artificial Intelligence, Machine Learning, and Robotics.  We are part of the School of Computer Science at Carnegie Mellon University. By constantly exposing our work to domain-specific constraints and challenges, we identify gaps in the science of AI and our research focuses on developing new methods to improve the application of AI in practice.</p>
+	<br/>
+    <h1>{{ page.carousel }}</h1>
+	<br/>
+    <div id="researchCarousel" class="carousel slide text-center" data-bs-ride="carousel">
+      <div class="carousel-inner" >
+        {% for slide in site.carousel %}
+          <div class="carousel-item{% if forloop.first %} active{% endif %}" >
+			<div class="row align-self-center slide-div" style="margin:auto;height:400px">
+        	  <img src="{{slide.splash | relative_url}}" style="margin:auto;object-fit:contain;width:100%;height:100%;max-width:1000px" alt="{{slide.title}}">
         	</div>
-        	{%endif%}
-        	<div class="col align-self-center slide-div">
-      			<h3><a href="{{slide.url | relative_url}}">{{slide.title}}</a></h3>
-      			<br/>
-      			<p>{{slide.summary}}</p>
+        	<div class="row align-self-center slide-div" style="height:200px" >
+      		  <h1><a href="{{slide.url | relative_url}}">{{slide.title}}</a></h1>
+      		  <br/>
+      		  <p>{{slide.summary}}</p>
       		</div>
-      		{% if rem == 1 %}
-			<div class="col">
-        		<img src="{{slide.splash | relative_url}}" class="d-block w-100" alt="{{slide.title}}">
-        	</div>
-        	{%endif%}
-      	</div>
+  		  </div>
+        {% endfor %}
+      </div>
     </div>
-    {% endfor %}
   </div>
 
-</div>
-  </div>
 <br/>
-
-<h3>Latest News</h3>
-
+<h1>Latest News</h1>

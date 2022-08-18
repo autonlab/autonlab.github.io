@@ -45,6 +45,7 @@
 .slide-div {
 	/*background-color:#222222AA;*/
 	/*background-color:#67a9f0b5;*/
+	/*background-image: url("/assets/images/grey.png")*/
 	background-color:#FFFFFF;
 }
 .slide-div a {
@@ -66,7 +67,14 @@
   padding:5px;
 }
 
+/*header, body, html {
+  background-image: url("/assets/images/grey.png");
 
+  height: 100%;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}*/
 
 /** Site footer */
 .site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }

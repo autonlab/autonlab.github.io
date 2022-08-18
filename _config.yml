@@ -31,3 +31,5 @@ collections:
     output: true
   impact:
     output: true
+  carousel:
+    output: true
