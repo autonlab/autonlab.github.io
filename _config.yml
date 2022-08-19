@@ -7,7 +7,7 @@ show_excerpts: true
 url: /
 baseurl: /
 header_pages:
-  - director_welcome.md
+  - welcome.md
   - application_areas.md
   - research_areas.md
   - impact_areas.md
