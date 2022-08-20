@@ -2,7 +2,7 @@ remote_theme: jekyll/minima
 title: Auton Lab
 title_img: /assets/images/auton_logo.png
 brand: Carnegie Mellon University
-brand_img: /assets/images/cmu-logo-2.png
+brand_img: /assets/images/cmu-wordmark-r.png
 show_excerpts: true
 url: /
 baseurl: /
