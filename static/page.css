@@ -6,6 +6,13 @@
 	text-align: center;
 }
 
+.checker {
+	border: 2px solid blue;
+	border-radius: 5px;
+	
+	/*background-color:#67a9f0b5;*/
+	/*background-color:#c1cef5;*/
+}
 .staff-container {
   	padding: 0;
 	margin: 0;
@@ -92,6 +99,7 @@
 .footer-col-1, .footer-col-2 { width: calc(50% - (30px / 2)); }
 
 .footer-col-3 { width: calc(100% - (30px / 2)); }
+
 
 @media screen and (min-width: 800px) { .footer-col-1 { width: calc(35% - (30px / 2)); }
   .footer-col-2 { width: calc(20% - (30px / 2)); }
