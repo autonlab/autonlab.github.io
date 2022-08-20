@@ -1,10 +1,10 @@
 ---
 layout: homepage
-first_name: Sebastian
-last_name: Caldas
+first_name: Ian
+last_name: Char
 title: PhD Student
 category: student
-image: "/assets/staff/caldas_sebastian.jpg"
+image: "/assets/staff/char_ian.jpeg"
 summary: "PhD Student"
 ---
 
