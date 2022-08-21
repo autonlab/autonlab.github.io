@@ -10,12 +10,13 @@ title: "People"
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
 	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
 	No Image
 	</div>
+	<h4>{{member.first_name}} {{member.last_name}}</h4>
 	{% endif %}
-	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	<p>{{member.title}}</p>
 </div>
 {% endfor %}
@@ -24,12 +25,13 @@ title: "People"
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
 	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
 	No Image
 	</div>
+	<h4>{{member.first_name}} {{member.last_name}}</h4>
 	{% endif %}
-	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	<p>{{member.title}}</p>
 </div>
 {% endfor %}
@@ -44,12 +46,13 @@ title: "People"
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
 	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
 	No Image
 	</div>
+	<h4>{{member.first_name}} {{member.last_name}}</h4>
 	{% endif %}
-	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	<p>{{member.title}}</p>
 </div>
 {% endfor %}
@@ -63,12 +66,13 @@ title: "People"
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
 	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
 	No Image
 	</div>
+	<h4>{{member.first_name}} {{member.last_name}}</h4>
 	{% endif %}
-	<h4><a href="{{ member.url |relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	<p>{{member.title}}</p>
 </div>
 {% endfor %}
@@ -81,12 +85,13 @@ title: "People"
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
 	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
 	No Image
 	</div>
+	<h4>{{member.first_name}} {{member.last_name}}</h4>
 	{% endif %}
-	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	<p>{{member.title}}</p>
 </div>
 {% endfor %}

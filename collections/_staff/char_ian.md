@@ -8,3 +8,6 @@ image: "/assets/staff/char_ian.jpeg"
 summary: "PhD Student"
 ---
 
+[Homepage][1]
+
+[1]:<http://ianchar.com/>
