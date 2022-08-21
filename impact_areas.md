@@ -16,6 +16,9 @@ Beyond publications, our lab's contributions have real-world impact.
    	<img src="{{slide.splash | relative_url}}" class="d-block w-100" alt="{{slide.title}}">
 	<p>{{slide.summary}}</p>
 </div>
+<div>
+&nbsp;
+</div>
 {% endfor %}
 
 

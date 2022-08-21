@@ -29,7 +29,7 @@ There are four broad application areas that motivate much of our research at the
     </div>
   {% endfor %}
 </div>
-
-
+<div>
+&nbsp;
+</div>
 {% endfor %}
-
