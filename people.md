@@ -2,7 +2,7 @@
 layout: page
 title: "People"
 ---
-# Faculty
+## Faculty
 
 <div class="staff-container">
 {% assign sortedStaff = site.staff | where:'category','founder' | sort: 'last_name' %}
@@ -38,7 +38,7 @@ title: "People"
 </div>
 
 
-# Graduate Students
+## Students
 
 {% assign sortedStaff = site.staff | where:'category','student' | sort: 'last_name' %}
 <div class="staff-container">
@@ -59,7 +59,7 @@ title: "People"
 </div>
 
 
-# Research Staff
+## Staff
 {% assign sortedStaff = site.staff | where:'category','staff' | sort: 'last_name' %}
 <div class="staff-container">
 {% for member in sortedStaff %}
@@ -78,7 +78,7 @@ title: "People"
 {% endfor %}
 </div>
 
-# Alumni
+## Alumni
 {% assign sortedStaff = site.staff | where:'category','alumni' | sort: 'last_name' %}
 <div class="staff-container">
 {% for member in sortedStaff %}
