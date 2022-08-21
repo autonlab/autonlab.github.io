@@ -5,7 +5,7 @@ title: "Application Areas"
 There are four broad application areas that motivate much of our research at the lab, and many of our projects fit into one or more of these groups.
 
 {% for slide in site.applications %}
-<div class="row checker" style="margin:auto;justify-content:center;width:90%;max-width:1000px">
+<div class="row checker" style="margin:auto;justify-content:center;width:100%;max-width:1000px">
   <h2><a href="{{ slide.url | relative_url}}">{{slide.title}}</a></h2>
   <img src="{{slide.splash | relative_url}}" alt="{{slide.title}}">
   <p>{{slide.summary}}</p>
@@ -23,7 +23,7 @@ There are four broad application areas that motivate much of our research at the
         <img src="{{pro.image | relative_url}}" alt="{{pro.name}}">
       </div>
       {% endif %}
-      <div class="col" style="width:100%;min-width:300px">
+      <div class="col" style="width:100%;min-width:350px">
         {{pro.blurb}}
       </div>
     </div>
