@@ -2,7 +2,7 @@
 layout: research
 title:  "Health Care & Public Health"
 summary: "Auton Lab performs research at the intersection of artificial intelligence and healthcare.  Research efforts range from mining new biomedical imaging modalities for learnable structure, to forecasting cardio-respiratory instabilities from continuous vital sign measurements, to public health efforts aimed at modeling outbreak detection and testing policy interventions to determine a course of action."
-splash: "/assets/images/auviewer_screenshot.png"
+splash: "/assets/images/health-care.jpg"
 projects:
   - 
     name: Public Health Surveillance
@@ -12,12 +12,12 @@ projects:
   -
     name: Critical Care Medicine
     anchor: icm
-    image: "/assets/images/piglab-robot.png"
+    image: "/assets/images/auviewer_screenshot.png"
     blurb: "Critical Care Medicine, from initial incident and response to emergency room discharge or hospital admission in urban, rural, and field settings, is a challenging domain for machine learning. These incidents arise in routine emergency medicine operations as well as in large scale crises, inlcluding natural disasters, mass casualty incidents, emerging pandemics, and terrorist events, each putting unique demands and stresses on provision of the necessary care. The nature of the emergency involves unpredictability of demand for services, varying severity of cases, need for rapid assessment, and required persistent availability of stand-by resources. It puts a physical, cognitive and emotional strain on performers, exacerbating risk of human errors."
   -
     name: Field Medicine
     anchor: tracir
-    image: "/assets/images/blue-phantom.png"
+    image: "/assets/images/battlefield-health.jpg"
     blurb: "Using cutting edge research and technologies, CMU develops techniques and systems intended to rapidly triage and stabilize injuries sustained in high-risk areas, particularly the battlefield or during military operations. Automated diagnosis and detection of injuries can quickly identify problems, with the eventual goal of automatic medical kits to stabilize soldiers and victims of disasters until qualified help can arrive."
   -
     name: Biomedical Imaging
