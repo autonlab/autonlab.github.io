@@ -4,10 +4,14 @@ title: "Machine Learning Tutorials"
 ---
 
 {% for tut in site.tutorials %}
+{% assign rem = forloop.index | modulo: 2 %}
+{% if rem == 1 %}
+<div class="container" style="background-color:#c1cef5;border:2px solid blue;border-radius:5px;">
+{% else %}
 <div class="container" style="border:2px solid blue;border-radius:5px;">
+{% endif %}
 <div class="row">
-<div class="col"><a href="{{tut.url | relative_url }}">{{tut.title}}</a></div>
-<div class="col"><div class="float-end"><a style="background-color:blue;color:white;padding:2px 5px 2px 5px;margin:2px 5px 2px 5px;border:1px solid black;border-radius:5px;" href="{{tut.pdf | relative_url}}">PDF</a></div></div>
+<div class="col"><a href="{{tut.pdf | relative_url }}"><h4>{{tut.title}}</h4></a></div>
 </div>
 <div class="row">{{tut.content}}</div>
 </div>
