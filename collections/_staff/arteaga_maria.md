@@ -2,9 +2,8 @@
 layout: homepage
 first_name: Maria
 last_name: De Arteaga
-title: Assistant Professor
+title: PhD Student
 category: alumni
-summary: "University of Texas"
+summary: "Assistant Professor at University of Texas"
 ---
 
-This page intentionally left blank.
