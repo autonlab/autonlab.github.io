@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Health Care & Public Health"
-summary: "Research at the intersection of medicine and machine learning. The Auton Lab works closely with clinicians at UPMC and the University of Pittsburgh to identify opportunities for AI and ML to make an impact in medical practice and clinical research. Lab history of impact in healthcare applications goes back decades. The Machine Learning for Healthcare conference spawned from a workshop first organizeed by Autonians in 2013. Our lab is leading the field in ways to deploy AI in ways that are clinically relevant and help save lives."
+summary: "Research at the intersection of medicine and machine learning. The Auton Lab works closely with clinicians at UPMC and the University of Pittsburgh to identify opportunities for AI and ML to make an impact in medical practice and clinical research. Lab history of impact in healthcare applications goes back decades. Our lab is leading the field in ways to deploy AI in ways that are clinically relevant and help save lives."
 splash: "/assets/images/health-care.jpg"
 projects:
   - 
