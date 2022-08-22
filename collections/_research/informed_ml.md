@@ -13,7 +13,7 @@ projects:
     name: Active Learning & Semi-Supervised Learning
     anchor: active
     image: "/assets/images/active_posterior_estimation.jpg"
-    blurb: "Active search"
+    blurb: "Multi-Agent Active Search (MAAS) refers to the problem of coordinating a team of agents to actively search for a sparse set of targets in an unknown domain. MAAS applications include robotic search-and-rescue, gas-leak detection, military reconnaissance and disaster relief. Despite the recent interest in MAAS technologies, pilots often face significant coordination challenges, preventing the effective deployment of drones in the field. Consequently, Auton Lab focuses on developing algorithms and theory to help enable next generation MAAS applications.
   -
     name: "Principle-Driven AI"
     anchor: principle
