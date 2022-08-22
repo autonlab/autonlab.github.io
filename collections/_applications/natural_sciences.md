@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "AI x Natural Sciences & Knowledge Discovery"
-summary: "How can other fields can benefit from the promise of AI. Automation can increase efficiency of processing vast amounts of data that informs scientific thinking. Part of the challenge involves bridging the gap between data-driven policy and empirical science. Natural sciences evolve as our collective understanding of the universe increases, therefore it is important to ensure that AI can leverage this ever-increasing knowledge."
+summary: "How can other fields can benefit from the promise of AI? Automation can increase efficiency of processing vast amounts of data that informs scientific thinking. Part of the challenge involves bridging the gap between data-driven policy and empirical science. Natural sciences evolve as our collective understanding of the universe increases, therefore it is important to ensure that AI can leverage this ever-increasing knowledge."
 splash: "/assets/images/outbreak-detection.jpg"
 projects:
   - 

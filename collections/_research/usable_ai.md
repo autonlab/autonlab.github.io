@@ -2,7 +2,7 @@
 layout: research
 title:  "Making AI Usable & Accessible"
 splash: "/assets/images/usable_ai.jpg"
-summary: "AI research that is informed by constant exposure to real-world, domain-specific constraints including resource limits, privacy considerations, and user trust & understanding." 
+summary: "These research thrusts address the pain points of applying ML in practice.  AI research that is informed by constant exposure to real-world, domain-specific constraints including resource limits, privacy considerations, and user trust & understanding." 
 projects:
   - 
     name: Automated Machine Learning
@@ -13,12 +13,12 @@ projects:
     name: Distributed AI
     anchor: federated
     image: "/assets/images/federated_hospital.png"
-    blurb: "Federated Learning supports machine learning in a distributed manner, by learning on local data and updating global model parameters."
+    blurb: "Federated Learning supports machine learning in a distributed manner, by learning on local data and updating global model parameters. Federated Learning is particulary applicable in cases where local datasets either have ownership and privacy considerations or the sheer amount of data is not supportive of centralized model learning. Distribution of compute resources to where the data resides also allows local models to learn idiosyncratic structure from each locality, complementing the structure that emerges in the global model."
   -
     name: Efficient Data Structures and Learning Algorithms
     anchor: structure
     image: "/assets/images/ssr_data_structure.jpg"
-    blurb: "Intelligent data structures can support fast queries for information that may otherwise take a long time to compute, such as temporal scans and robustness guarantees. Efficient  as well as scaling existing learning paradigms."
+    blurb: "Intelligent data structures can support fast queries for information that may otherwise take a long time to compute, such as temporal scans and robustness guarantees. Reducing the resource cost of deep learning algorithms through efficient sampling and by replacing internal network structure with more light-weight alternatives, such as fuzzy decision trees. Adaptive resolution temporal scans to answer user queries. Disjunctive anomaly detection."
   -
     name: Explainable & Trustworthy AI
     anchor: xai

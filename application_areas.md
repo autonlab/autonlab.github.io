@@ -10,9 +10,9 @@ To get a flavor for the type of work happening at the lab, here is a selection o
 
 {% for slide in site.applications %}
 <div class="row checker" style="margin:auto;justify-content:center;width:100%;max-width:1000px">
-  <h2><a href="{{ slide.url | relative_url}}">{{slide.title}}</a></h2>
+  <h2>{{slide.title}}</h2>
   <img src="{{slide.splash | relative_url}}" alt="{{slide.title}}">
-  <p>{{slide.summary}}</p>
+  <p><br/>{{slide.summary}}</p>
   <h3>Highlighted Work</h3>
   {% for pro in slide.projects %}
   {% assign rem = forloop.index | modulo: 2 %}

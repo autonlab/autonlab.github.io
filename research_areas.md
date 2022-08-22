@@ -2,11 +2,20 @@
 layout: page
 title: "Research"
 ---
+
+Fundamental research thrusts in the lab span theory and algorithms that aim to address the limitations of AI in practice.
+
+
+Here at the lab, we believe that the most useful concepts in AI and ML reveal themselves through constant exposure to domain-specific challenges and constraints.
+It is these limitations that force us to get creative and think about how to address the hurdles that stand in the way of widespread adoption of AI technology.
+Our goal is to assuage these pain points to best meet the needs of potential users of AI technology, whether they be subject matter experts, developers of AI systems, or general users.
+To get a flavor for the type of work happening at the lab, here is a selection of five broad application areas where we are applying our research.
+
 {% for slide in site.research %}
 <div class="row checker" style="margin:auto;justify-content:center;width:100%;max-width:1000px">
-  <h2><a href="{{ slide.url | relative_url}}">{{slide.title}}</a></h2>
+  <h2>{{slide.title}}</h2>
   <img src="{{slide.splash | relative_url}}" alt="{{slide.title}}">
-  <p>{{slide.summary}}</p>
+  <p><br/>{{slide.summary}}</p>
   <h3>Highlighted Work</h3>
   {% for pro in slide.projects %}
   {% assign rem = forloop.index | modulo: 2 %}
