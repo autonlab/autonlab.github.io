@@ -16,7 +16,7 @@ permalink: /
     {%- endif -%}
     <h4>Intelligent systems that work, are useful, and make economic sense.</h4>
     <div class="row" style="margin:auto;max-width:1000px">
-    <p>We are an academic lab that studies theory, algorithms, and applications of Artificial Intelligence, Machine Learning, and Robotics.  We are part of the School of Computer Science at Carnegie Mellon University. By constantly exposing our work to domain-specific constraints and challenges, we identify gaps in the science of AI and our research focuses on developing new methods to improve the application of AI in practice.</p>
+    <p>We are an academic lab that studies theory, algorithms, and applications of Artificial Intelligence, Machine Learning, and Robotics.  We are part of the School of Computer Science at Carnegie Mellon University. By constantly exposing our work to application domain specific constraints and challenges that occur in the real world, we identify gaps in the science of AI and our fundamental research focuses on developing new methods to improve the application of AI in practice.</p>
     </div>
 	<br/>
     <h1>{{ page.carousel }}</h1>
