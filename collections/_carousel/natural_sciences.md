@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "AI x Natural Sciences & Knowledge Discovery"
-summary: "Using AI to augment the ability of subject matter experts (SMEs) to pour through trememdous amounts of data and exract insights which further human knowledge and understanding of the universe."
+summary: "How can other fields can benefit from the promise of AI. Automation can increase efficiency of processing vast amounts of data that informs scientific thinking. Part of the challenge involves bridging the gap between data-driven policy and empirical science. Natural sciences evolve as our collective understanding of the universe increases, therefore it is important to ensure that AI can leverage this ever-increasing knowledge."
 splash: "/assets/images/outbreak-detection.jpg"
 projects:
   - 
@@ -30,4 +30,3 @@ Physics
 Info on RL for plasma control from Viraj's thesis proposal https://www.ri.cmu.edu/event/on-sample-efficient-reinforcement-learning-for-nuclear-fusion/
 It seems like the first half of the work with LLNL should fall under this fundamental physics x ML category, and the second half falls under radiation safety
 -->
-

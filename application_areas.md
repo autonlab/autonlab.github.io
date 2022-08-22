@@ -2,7 +2,11 @@
 layout: page
 title: "Application Areas"
 ---
-There are four broad application areas that motivate much of our research at the lab, and many of our projects fit into one or more of these groups.
+
+Here at the lab, we believe that the most useful concepts in AI and ML reveal themselves through constant exposure to domain-specific challenges and constraints.
+It is these limitations that force us to get creative and think about how to address the hurdles that stand in the way of widespread adoption of AI technology.
+Our goal is to assuage these pain points to best meet the needs of potential users of AI technology, whether they be subject matter experts, developers of AI systems, or general users.
+To get a flavor for the type of work happening at the lab, here is a selection of five broad application areas where we are applying our research.
 
 {% for slide in site.applications %}
 <div class="row checker" style="margin:auto;justify-content:center;width:100%;max-width:1000px">

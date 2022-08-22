@@ -5,15 +5,15 @@ splash: "/assets/images/informed_ml.jpg"
 summary: "Auton Lab research frequently involves ways to incorporate expert knowledge into AI systems. This ranges from research on how to effectively have experts label vast amounts of data, to incorporating feedback in active learning frameworks, to formal verification of model adherence to domain-specific constraints and design specifications. We take AI outside the cozy spot of data-driven approach. Standard AI relies primarily on what can be learned from data, however, data is just a limited projection of reality. Auton lab is working on multiple exciting avenues to make AI and ML smarter."
 projects:
   - 
-    name: Weak Supervision
+    name: "Weak Supervision"
     anchor: weasel
     image: "/assets/images/weak_supervision.jpg"
     blurb: "Many state of the art models have a voracious appetite for labeled data, which is hard to provide in contexts where subject matter experts are the only people capable of providing annotations. The weak supervision paradigm replaces labeling of individual data samples with the creation of labeling functions. Auton lab work expands this paradigm to increase the efficiency and flexibility of the data programming framework."
   -
-    name: Active Learning & Semi-Supervised Learning
-    anchor: active
+    name: "Active Learning"
+    anchor: maas
     image: "/assets/images/active_posterior_estimation.jpg"
-    blurb: "Multi-Agent Active Search (MAAS) refers to the problem of coordinating a team of agents to actively search for a sparse set of targets in an unknown domain. MAAS applications include robotic search-and-rescue, gas-leak detection, military reconnaissance and disaster relief. Despite the recent interest in MAAS technologies, pilots often face significant coordination challenges, preventing the effective deployment of drones in the field. Consequently, Auton Lab focuses on developing algorithms and theory to help enable next generation MAAS applications.
+    blurb: "Multi-Agent Active Search (MAAS) refers to the problem of coordinating a team of agents to actively search for a sparse set of targets in an unknown domain. MAAS applications include robotic search-and-rescue, gas-leak detection, military reconnaissance and disaster relief. Despite the recent interest in MAAS technologies, pilots often face significant coordination challenges, preventing the effective deployment of drones in the field. Consequently, Auton Lab focuses on developing algorithms and theory to help enable next generation MAAS applications."
   -
     name: "Principle-Driven AI"
     anchor: principle

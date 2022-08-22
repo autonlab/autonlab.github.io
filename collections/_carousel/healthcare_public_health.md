@@ -1,14 +1,14 @@
 ---
 layout: research
 title:  "Health Care & Public Health"
-summary: "Auton Lab performs research at the intersection of artificial intelligence and healthcare.  Research efforts range from mining new biomedical imaging modalities for learnable structure, to forecasting cardio-respiratory instabilities from continuous vital sign measurements, to public health efforts aimed at modeling outbreak detection and testing policy interventions to determine a course of action."
+summary: "Research at the intersection of medicine and machine learning. The Auton Lab works closely with clinicians at UPMC and the University of Pittsburgh to identify opportunities for AI and ML to make an impact in medical practice and clinical research. Lab history of impact in healthcare applications goes back decades. The Machine Learning for Healthcare conference spawned from a workshop first organizeed by Autonians in 2013. Our lab is leading the field in ways to deploy AI in ways that are clinically relevant and help save lives."
 splash: "/assets/images/health-care.jpg"
 projects:
   - 
     name: Public Health Surveillance
     anchor: phs
     image: "assets/images/mcba.png"
-    blurb: "The Auton Lab develops statistical inference model in a long-term joint research collaboration with epidemiologists and infection prevention experts from the University of Pittsburgh. Our algorithms detect systematic outbreaks and identify root causes by joining disparate sources of information such as genetic tests, patient electronic health records (EHRs), and other epidemiological information. Leveraging multiple data sources, our algorithms establish corroborating evidence to support or dismiss hypothetical outbreak scenarios, both increasing detectability and speed of analysis while maintaining low false alert rates. We also perform analytics to detect and forecast new positive cases of COVID-19 using microbiological testing of wastewater and develop a systematic analysis capability that the Allegheny County Health Department will use in daily practice for public health surveillance."
+    blurb: "We develops statistical inference model in a long-term joint research collaboration with epidemiologists and infection prevention experts from the University of Pittsburgh. Our algorithms detect systematic outbreaks and identify root causes by joining disparate sources of information such as genetic tests, patient electronic health records (EHRs), and other epidemiological information. Leveraging multiple data sources, our algorithms establish corroborating evidence to support or dismiss hypothetical outbreak scenarios, both increasing detectability and speed of analysis while maintaining low false alert rates. We also perform analytics to detect and forecast new positive cases of COVID-19 using microbiological testing of wastewater and develop a systematic analysis capability that the Allegheny County Health Department will use in daily practice for public health surveillance."
   -
     name: Critical Care Medicine
     anchor: icm
@@ -23,13 +23,12 @@ projects:
     name: Biomedical Imaging
     anchor: bmi
     image: "/assets/images/angiogram.png"
-    blurb: "We develop algorithms to leverage structure in images and videos. This intelligent featurization enables interpretable, downstream modeling."
+    blurb: "The proven ability of AI to learn from images encounters new challenges in biomedical imaging modalities, where there is a large amount of variance between individual patients due to both anatomical structure as well as a different definitions of health for different cohorts of patients. Furthermore, videos contain rich information and potential that has yet to be fully unlocked in clinical applications. Our work focuses on supporting expert decision-making in order to improve clinical outcomes."
 ---
 
 
 <!-- Notes
 EDS-HAT
 COVID dashboard
-Emma's work with estimating circulation from videos
 summary: "Hospital acquired infections are a significant yet preventable detractor of patient care. The Auton lab develops statistical models for joining disparate sources of information such as genetic tests, patient histories, geography, and other epidemiological information for detecting systematic outbreaks and identifying root cause. Leveraging multiple data sources, our algorithms establish corroborating evidence to support or dismiss hypothetical outbreak scenarios, both increasing detectability and speed of analysis while maintaining low false alert rates."
 -->

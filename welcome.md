@@ -7,7 +7,7 @@ Welcome to the Auton Lab!
 We were founded by Andrew Moore in 1993.
 Today, [our team](/people.md) is one of the largest applied machine learning research groups in academia.
 
-Research at the Auton Lab is unique in that it tends to addres both limitations of AI as a science and limitations of AI as a practice.
+Research at the Auton Lab is unique in that it tends to address both limitations of AI as a science and limitations of AI as a practice.
 Limitations in practice are discovered through our constant exposure to challenges in real-world [application areas](/application_areas.md).
 These limitations represent big opportunities, and our portfolio of fundamental [research thrusts](/research_areas.md) aims to provide answers to assuage the contemporary shortcomings of AI and make positive [impact](/impact_areas.md) across a variety of critical contexts.
 Here are some of the biggest opportunities we see in the field of AI, as well as the types of questions we are asking and answering with our work.

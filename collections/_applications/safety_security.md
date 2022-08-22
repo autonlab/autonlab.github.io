@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Safety & Security"
-summary: "Projects in this application area represent a variety of critical contexts for artificial intelligence and machine learning. Trust and understanding of the inner workings of models is an important step toward widespread deployment. Testing models to provide assurances of efficacy and safety encompasses both statistical and logical analyses. The Auton Lab not only makes an impact in Safety & Security by building state of the art AI, but also by informing policy decisions on how to ready complex, critical systems for a future where more insights and promise can be unlocked with AI."
+summary: "Projects in this application area represent a variety of critical contexts for artificial intelligence and machine learning that are collaborations with government sponsors at the local, state, and federal level. In addition to deploying intelligent systems, part of the work in this context is defining ways to modernize existing processes to produce data that is AI-ready."
 splash: "/assets/images/ntsb.png"
 projects:
   - 
@@ -18,7 +18,7 @@ projects:
     name: Traffic & Public Safety
     anchor: traffic
     image: "/assets/images/traffic_craig.png"
-    blurb: "Identifying anomalous trajectories of pedestrians and highlighting when people appear to be where they should not be."
+    blurb: "Using traffic cameras placed around Pittsburgh city, we are working to identify anomalous vehicle  and pedestrian trajectories. Highlighting when people appear to be where they should not be supports decision making for autonomous vehicles. These cameras may also improve estimates of minor traffic incidents that do not result in police reports, informing city planning and allocation of resources for improving safety of intersections for vehicles and pedestrians."
 ---
 
 
