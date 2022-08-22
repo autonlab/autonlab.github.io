@@ -1,24 +1,24 @@
----
 layout: page
 title: "Impact"
 ---
 Beyond publications, our lab's contributions have real-world impact.
 
-
-{% for slide in site.impact %}
-{% assign rem = forloop.index | modulo: 2 %}
-{% if rem == 1 %}
-<div class="row checker" style="margin:auto;justify-content:center;width:100%;max-width:1000px;background-color:#c1cef5;padding-bottom:20px">
-{% else %}
-<div class="row checker" style="margin:auto;justify-content:center;width:100%;max-width:1000px;padding-bottom:20px">
-{% endif %}
-	<h3><a href="{{ slide.url | relative_url}}">{{slide.title}}</a></h3>
-   	<img src="{{slide.splash | relative_url}}" class="d-block w-100" alt="{{slide.title}}">
-	<p>{{slide.summary}}</p>
-</div>
-<div>
-&nbsp;
-</div>
+<div class="row" style="margin:auto;justify-content:center;width:99%;max-width:1000px;border:2px solid blue;border-radius:5px">
+  {% for slide in site.impact %}
+  {% assign rem = forloop.index | modulo: 2 %}
+  {% if rem == 1 %}
+  <div class="row" style="margin:auto;justify-content:center;width:100%;max-width:1000px;background-color:#c1cef5;padding-bottom:30px">
+  {% else %}
+  <div class="row" style="margin:auto;justify-content:center;width:100%;max-width:1000px;padding-bottom:30px">
+  {% endif %}
+	<h4><a href="{{ slide.url | relative_url}}">{{slide.title}}</a></h4>
+    <div class="col" style="margin:0 auto;min-width:300px;max-width:400px">
+   	  <img src="{{slide.splash | relative_url}}" class="d-block w-100" alt="{{slide.title}}">
+    </div>
+    <div class="col" style="width:100%;min-width:350px">
+	  <p>{{slide.summary}}</p>
+    </div>
+  </div>
 {% endfor %}
-
+</div>
 
