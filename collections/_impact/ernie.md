@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "ERNIE"
+title:  "Enhanced Radiological Nuclear Inspection and Evaluation"
 splash: "/assets/images/rpm.png"
-summary: "Description of the impact of the project"
+summary: "Using machine learning to confidently adjudiate threatening and bening radiation signatures."
 ---
 
-Enhanced Radiological Nuclear Inspection and Evaluation
+

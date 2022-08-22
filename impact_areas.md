@@ -3,6 +3,8 @@ layout: page
 title: "Impact"
 ---
 Beyond publications, our lab's contributions have real-world impact.
+Most direct impact comes from application of technologies developed in the lab.
+Other impacts result from the educational mission of the lab and partnerships with industry.
 
 <div class="row" style="margin:auto;justify-content:center;width:99%;max-width:1000px;border:2px solid blue;border-radius:5px">
   {% for slide in site.impact %}

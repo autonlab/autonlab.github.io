@@ -2,12 +2,7 @@
 layout: post
 title:  "Alumni"
 splash: "/assets/images/lab_picnic_2021.png"
-summary: "Autonians go on to do a lot of great things"
+summary: "Autonians go on to do a lot of great things, from academia, to industry, to government."
 ---
 
-Auton Lab creates great people through its educational mission.
-In depth tutorials of core concepts in machine learning complement the pedagogical impact of graduate courses taught at CMU.
 
-todo
-
-links to alumni current homepages
