@@ -1,6 +1,6 @@
 ---
 layout: homepage
-first_name: Arunghati
+first_name: Arundhati
 last_name: Banerjee
 title: PhD Student
 category: student
