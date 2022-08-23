@@ -1,6 +1,6 @@
 ---
 layout: home
-carousel: "Areas where we are making impact"
+carousel: "Areas where we are making an impact"
 permalink: /
 ---
 
