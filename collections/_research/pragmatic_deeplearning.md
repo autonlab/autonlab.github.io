@@ -23,7 +23,7 @@ projects:
     name: Deep Reinforcement Learning
     anchor: deeprl
     image: "/assets/images/genetic_curriculum.gif"
-    blurb: "Current trends in Reinforcement Learning require massive amounts of data and compute power. Work on the Auton Lab makes RL more efficient and accessible to researchers to push its limits and answer new questions. Sample efficient reinforcement learning, learning with genetic curriculum."
+    blurb: "Auton lab focuses on using curriculum learning and genetic algorithms to sample-efficiently train an RL agent against the long tail of scenarios (last 10% of scenarios that are difficult to train). One approach to achieve robustness is to use adversarial agents to inject noise during training to steer the exploration towards these challenging scenarios. However, this often converges to worst case situations in which the protagonist cannot learn and requires expert supervision to avoid this issue. Instead, we use genetic algorithms to generate adversarial scenarios. Generated via genetic algorithms, these scenarios are similar to each other and can work as a curricular RL where skills are transferred between similar tasks of varying difficulty levels. Empirical results show that our algorithm results in RL agents 2 ~ 8 times less likely to fail a task without scrificing performance (average cumulative rewards)."
 ---
 <!--
   -
