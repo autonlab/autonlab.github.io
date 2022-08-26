@@ -13,9 +13,14 @@ The general path to getting the website up and running on your local machine is:
   - Install Ruby
   - Install Bundler
   - Install Jekyll
+  - $ bundle install webrick
   - $ bundle install
   - $ bundle exec jekyll serve
   - Navigate to http://localhost:4000/ on your local machine
+
+# Please file issues when you discover them
+We want the site to look professional, so text spilling over or images rendering too tiny are all good points to raise so we can diagnose and fix.
+
 
 ### Features of the website
   - Welcome page with big ideas in AI/ML to introduce how we view the field and how we think
@@ -55,7 +60,7 @@ The general path to getting the website up and running on your local machine is:
     - welcome.md
   - Gemfile (you must add this yourself one time only, make sure it is here /autonlab.github.io/Gemfile if you want to be able to view local changes before committing them)
 
-# FAW How-To:
+# FAQ How-To:
 
 ## Edit your personal page / Add a new employee
 If you wish to add a staff member profile, it's very easy. Simply create a file in the directory autonlab.github.io/collections/\_staff/
@@ -129,3 +134,5 @@ It is highly recommended that you render the site locally to see the effect of y
 ## How to change formatting of an entire page
 
 Check out \_layouts/\* which contain the templates that are called by all other files on the site (e.g., layout: research)
+
+It is highly recommended that you render the site locally to see the effect of your changes before pushing to the live site.
