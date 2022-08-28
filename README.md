@@ -1,6 +1,9 @@
 # Auton Lab Website
 
-If you are reading this, you are likely attempting to update or maintain the Auton Lab website in some fashion.  Read on for some quick howtos.
+If you are reading this, you are likely attempting to update or maintain the Auton Lab website in some fashion.
+Everyone has the tools they need to make the changes they want to the website, but if you would feel more comfortable talking to someone to learn how to make your own edits to the website, please reach out to Nick.
+It will probably take less than 30 minutes to get you set up and making your first commits.
+Keep in mind that this new site is under version control, so try your best to add the content you want and if something breaks, we can always recover.
 
 [FAQ](https://docs.google.com/document/d/1cBfbX9edwId-wbtjpLK3FxDHYtadFnEY5ne2Q2JsXCw/edit?usp=sharing)
 
