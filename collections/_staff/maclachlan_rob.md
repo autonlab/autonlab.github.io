@@ -10,4 +10,5 @@ summary: "Senior Research Engineer"
 
 
 [Homepage][1]
-[1]:<https://www.cs.cmu.edu/~ram/>
+
+[1]:<https://cs.cmu.edu/~ram/>

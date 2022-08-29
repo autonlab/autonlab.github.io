@@ -7,4 +7,5 @@ image: "/assets/images/gupta_tejus.jpg"
 category: student
 ---
 [Homepage][1]
+
 [1]:<https://tejus-gupta.github.io>

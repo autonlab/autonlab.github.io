@@ -7,5 +7,8 @@ category: student
 image: "/assets/images/nagpal_chirag.jpg"
 summary: "PhD Student"
 ---
-Personal Website: [cs.cmu.edu/~chiragn](http://cs.cmu.edu/~chiragn)
+
+[Homepage][1]
+
+[1]:<http://cs.cmu.edu/~chiragn>
 

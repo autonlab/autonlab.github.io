@@ -8,4 +8,6 @@ summary: "Benedikt is a PhD student advised by Artur Dubrawski. His research exp
 image: "/assets/images/boecking_ben.jpg"
 ---
 
-<a href="https://www.cs.cmu.edu/~boecking/">Link to Benedikt's homepage: https://www.cs.cmu.edu/~boecking/ </a>
+[Homepage][1]
+
+[1]:<https://www.cs.cmu.edu/~boecking/>

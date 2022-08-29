@@ -9,4 +9,5 @@ summary: "Research Programmer"
 ---
 
 [Homepage][1]
+
 [1]:<https://vedant-sanil.github.io>
