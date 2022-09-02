@@ -42,6 +42,10 @@ html, body {
 	color: black;
 }
 
+.impact-page-styles a:hover {
+	font-size: large;
+}
+
 .impact-page-styles a {
 	font-weight: bolder;
 	text-align: center;
