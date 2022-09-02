@@ -3,14 +3,30 @@ html, body {
 	overflow-x: hidden;
 }
 
+/*styling for "people" page titles*/
+.page-title {
+	padding:5px;
+	font-size: 30px;
+	font-weight: bolder;
+	text-align: center;
+  }
+/*styling for staff blocks*/
 .staff-block {
-	border: 2px solid blue;
-	border-radius: 5px;
+	border: 5px solid #8A2A2B;
+	border-radius: 20px;
 	/*background-color:#8888aa;*/
-	background-color:#c1cef5;
+	background-color:#cfcfcf;
 	width: 200px;
 	text-align: center;
 	padding-top:10px;
+}
+/*styling for staff block links*/
+.staff-block a:link {
+	color: #8A2A2B;
+}
+/*styling for staff blocks links*/
+.staff-block a:hover {
+	font-weight: bolder;
 }
 
 .checker {
@@ -80,6 +96,11 @@ html, body {
 .content-wrapper {
   padding:5px;
 }
+
+.page-title ~ .page-title {
+	padding-top: 50px;
+}
+
 
 /*header, body, html {
   background-image: url("/assets/images/grey.png");
