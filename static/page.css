@@ -1,7 +1,7 @@
 html, body {
 	width: 100%;
 	overflow-x: hidden;
-	font-family: 'Open Sans',Helvetica,sans-serif;
+	font-family: 'Open Sans',Helvetica,sans-serif !important;
 }
 
 /*styling for "people" page titles*/
