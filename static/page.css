@@ -30,6 +30,10 @@ html, body {
 	font-weight: bolder;
 }
 
+.staff-block a:visited {
+	color: #8A2A2B;
+}
+
 .checker {
 	border: 2px solid blue;
 	border-radius: 5px;
