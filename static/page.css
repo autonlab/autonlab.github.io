@@ -34,6 +34,19 @@ html, body {
 	color: #8A2A2B;
 }
 
+.impact-page-styles a:link {
+	color:#000000
+}
+
+.impact-page-styles a:visited {
+	color: black;
+}
+
+.impact-page-styles a {
+	font-weight: bolder;
+	text-align: center;
+}
+
 .checker {
 	border: 2px solid blue;
 	border-radius: 5px;
