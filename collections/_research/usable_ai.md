@@ -13,7 +13,7 @@ projects:
     name: Distributed AI
     anchor: federated
     image: "/assets/images/federated_hospital.png"
-    blurb: "Federated Learning supports machine learning in a distributed manner, by learning on local data and updating global model parameters. Federated Learning is particulary applicable in cases where local datasets either have ownership and privacy considerations or the sheer amount of data is not supportive of centralized model learning. Distribution of compute resources to where the data resides also allows local models to learn idiosyncratic structure from each locality, complementing the structure that emerges in the global model."
+    blurb: "Federated Learning supports machine learning in a distributed manner, by learning on local data and updating global model parameters. Federated Learning is particularly applicable in cases where local datasets either have ownership and privacy considerations or the sheer amount of data is not supportive of centralized model learning. Distribution of compute resources to where the data resides also allows local models to learn idiosyncratic structure from each locality, complementing the structure that emerges in the global model."
   -
     name: Efficient Data Structures and Learning Algorithms
     anchor: structure
