@@ -70,23 +70,6 @@ html, body {
 	font-weight: bolder;
 	text-align: center;
 }
-/* all page headers AND main body content */
-.post-header, .post-content {
-	background-color: white;
-	margin-left: 5vw;
-	margin-right: 5vw;
-}
-/* all page headers */
-.post-header {
-	text-align: center;
-	margin-bottom: 0 !important;
-	font-family: 'Bebas Neue', cursive;
-}
-/* all main body content */
-.post-content {
-	margin-top: 2em;
-	padding: 2em !important;
-}
 /* nav item links */
 .nav-item a:link, .nav-item a:visited {
 	font-weight: bold;
@@ -219,12 +202,32 @@ html, body {
 .post-link { display: block; font-size: 1.5rem; }
 
 /** Posts */
+
+/* all page headers AND main body content */
+.post-header, .post-content {
+	background-color: white;
+	margin-left: 5vw;
+	margin-right: 5vw;
+}
+/* all page headers */
+.post-header {
+	text-align: center;
+	margin-bottom: 0 !important;
+	font-family: 'Bebas Neue', cursive;
+}
+/* all main body content */
+.post-content {
+	margin-top: 2vh !important;
+	padding: .2em 1em 0 1em !important;
+}
+/*
 .post-header { margin-bottom: 30px; }
+.post-content { margin-bottom: 30px; }
+*/
 
 .post-title, .post-content h1 { font-size: 2.625rem; letter-spacing: -1px; line-height: 1.15; }
 @media screen and (min-width: 800px) { .post-title, .post-content h1 { font-size: 2.625rem; } }
 
-.post-content { margin-bottom: 30px; }
 .post-content h1, .post-content h2, .post-content h3 { margin-top: 60px; }
 .post-content h4, .post-content h5, .post-content h6 { margin-top: 30px; }
 .post-content h2 { font-size: 1.75rem; }
