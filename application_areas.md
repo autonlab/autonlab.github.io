@@ -23,11 +23,11 @@ To get a flavor for the type of work happening at the lab, here is a selection o
     {% endif %}
       <h5>{{pro.name}}</h5>
       {% if pro.image %}
-      <div class="col" style="margin:0 auto;min-width:300px;max-width:400px">
+      <div class="row" style="margin:0 auto;width:100;max-width:400px">
         <img src="{{pro.image | relative_url}}" alt="{{pro.name}}">
       </div>
       {% endif %}
-      <div class="col" style="width:100%;min-width:350px">
+      <div class="col" style="width:100%">
         {{pro.blurb}}
       </div>
     </div>
