@@ -2,7 +2,7 @@
 layout: page
 title: "People"
 ---
-<div class="page-title">
+<div class="people-title">
 Faculty
 </div>
 
@@ -39,7 +39,7 @@ Faculty
 {% endfor %}
 </div>
 
-<div class="page-title">
+<div class="people-title">
 Students
 </div>
 
@@ -61,7 +61,7 @@ Students
 {% endfor %}
 </div>
 
-<div class="page-title">
+<div class="people-title">
 Staff
 </div>
 
@@ -83,7 +83,7 @@ Staff
 {% endfor %}
 </div>
 
-<div class="page-title">
+<div class="people-title">
 Alumni
 </div>
 

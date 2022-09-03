@@ -3,14 +3,15 @@ html, body {
 	overflow-x: hidden;
 	font-family: 'Open Sans',Helvetica,sans-serif !important;
 }
-
 /*styling for "people" page titles*/
-.page-title {
-	padding:5px;
+.people-title {
 	font-size: 30px;
-	font-weight: bolder;
 	text-align: center;
+	font-family: 'Bebas Neue', cursive;
   }
+.people-title ~ .people-title {
+	padding-top: 2rem;
+}
 /*styling for staff blocks*/
 .staff-block {
 	border: 5px solid #8A2A2B;
@@ -20,6 +21,7 @@ html, body {
 	width: 200px;
 	text-align: center;
 	padding-top:10px;
+	margin: 1px;
 }
 /*styling for staff block links*/
 .staff-block a:link {
@@ -60,10 +62,11 @@ html, body {
 .post-header {
 	text-align: center;
 	margin-bottom: 0 !important;
+	font-family: 'Bebas Neue', cursive;
 }
 /* all main body content */
 .post-content {
-	margin-top: 0;
+	margin-top: 2em;
 	padding: 2em !important;
 }
 /* nav item links */
