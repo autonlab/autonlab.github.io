@@ -69,6 +69,7 @@ html, body {
 .impact-page-styles a {
 	font-weight: bolder;
 	text-align: center;
+	transition: 350ms;
 }
 /* nav item links */
 .nav-item a:link, .nav-item a:visited {
@@ -79,7 +80,9 @@ html, body {
 	font-size: larger;
 	text-decoration: none;
 }
-
+.nav-item a {
+	transition: 350ms;
+}
 .checker {
 	border: 2px solid blue;
 	border-radius: 5px;
