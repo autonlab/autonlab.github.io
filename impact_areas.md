@@ -15,10 +15,10 @@ Other impacts result from the educational mission of the lab and partnerships wi
     <div class="row" style="margin:auto;justify-content:center;width:100%;max-width:1000px;padding-bottom:30px">
     {% endif %}
     <h4><a href="{{ slide.url | relative_url}}">{{slide.title}}</a></h4>
-      <div class="col" style="margin:0 auto;min-width:300px;max-width:400px">
+      <div class="row" style="margin:0 auto;width:100%;max-width:400px">
         <img src="{{slide.splash | relative_url}}" class="d-block w-100" alt="{{slide.title}}">
       </div>
-      <div class="col" style="width:100%;min-width:350px">
+      <div class="col" style="width:100%">
       <p>{{slide.summary}}</p>
       </div>
     </div>
