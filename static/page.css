@@ -55,8 +55,8 @@ html, body {
 /* all page headers AND main body content */
 .post-header, .post-content {
 	background-color: white;
-	margin-left: 10em;
-	margin-right: 10em;
+	margin-left: 5vw;
+	margin-right: 5vw;
 }
 /* all page headers */
 .post-header {
