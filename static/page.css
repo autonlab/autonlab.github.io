@@ -50,21 +50,30 @@ html, body {
 	font-weight: bolder;
 	text-align: center;
 }
-
+/* all page headers AND main body content */
 .post-header, .post-content {
 	background-color: white;
 	margin-left: 10em;
 	margin-right: 10em;
 }
-
+/* all page headers */
 .post-header {
 	text-align: center;
 	margin-bottom: 0 !important;
 }
-
+/* all main body content */
 .post-content {
 	margin-top: 0;
 	padding: 2em !important;
+}
+/* nav item links */
+.nav-item a:link, .nav-item a:visited {
+	font-weight: bold;
+}
+/* nav item links when hovered over */
+.nav-item a:hover {
+	font-size: larger;
+	text-decoration: none;
 }
 
 .checker {
