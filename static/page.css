@@ -22,13 +22,15 @@ html, body {
 	margin-top: 1vh;
 }
 .carousel-item a {
-	transition: 350ms;
+	transition: 300ms;
+	text-decoration: none;
 }
 .carousel-item a:link, .carousel-item a:visited {
-	color: #8A2A2B !important;
+	color: #323399 !important;
 }
 .carousel-item a:hover {
-	font-size: larger;
+	text-decoration: underline;
+	text-decoration-thickness: .1em;
 }
 /* styling for "people" page titles */
 .people-title {
@@ -85,12 +87,12 @@ html, body {
 	font-weight: bold;
 }
 /* nav item links when hovered over */
-.nav-item a:hover {
-	font-size: larger;
-	text-decoration: none;
-}
 .nav-item a {
-	transition: 350ms;
+	transition: 400ms;
+}
+.nav-item a:hover {
+	color: #323399 !important;
+	text-decoration-thickness: .2em;
 }
 .checker {
 	border: 2px solid blue;
