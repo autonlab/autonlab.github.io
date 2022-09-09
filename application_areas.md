@@ -10,7 +10,7 @@ To get a flavor for the type of work happening at the lab, here is a selection o
 
 {% for slide in site.applications %}
 <div class="row checker" style="margin:auto;justify-content:center;width:100%;max-width:1000px">
-  <h2>{{slide.title}}</h2>
+  <h2 class="application-title">{{slide.title}}</h2>
   <img src="{{slide.splash | relative_url}}" alt="{{slide.title}}">
   <p><br/>{{slide.summary}}</p>
   <h3>Highlighted Work</h3>
@@ -27,7 +27,7 @@ To get a flavor for the type of work happening at the lab, here is a selection o
         <img src="{{pro.image | relative_url}}" alt="{{pro.name}}">
       </div>
       {% endif %}
-      <div class="col" style="width:100%">
+      <div class="row" style="width:100%">
         {{pro.blurb}}
       </div>
     </div>
