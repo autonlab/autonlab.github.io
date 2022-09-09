@@ -32,6 +32,43 @@ html, body {
 	text-decoration: underline;
 	text-decoration-thickness: .1em;
 }
+/* application areas styling */
+.application-title {
+	font-family: 'Bebas Neue', cursive;
+	color: white;
+	text-align: center;
+	font-size: 4vh !important;
+	margin-top: 0 !important;
+	margin-bottom: 0;
+	background-color: #323399;
+	padding: .5em;
+	margin-bottom: .2em;
+}
+.highlighted-work-title {
+	font-family: 'Bebas Neue', cursive;
+	text-align: center;
+	font-size: 4vh !important;
+	margin-bottom: 0;
+}
+.application-body {
+	background-image: url(/assets/images/grey.png);
+}
+.checker {
+	border: 2px solid #323399;
+	border-radius: 5px;
+	
+	/*background-color:#67a9f0b5;*/
+	/*background-color:#c1cef5;*/
+}
+.pro-name {
+	text-align: center;
+	font-weight: bold;
+	margin: 0 !important;
+	padding: 1em !important;
+}
+.pro-blurb {
+	padding-top: 1em !important;
+}
 /* styling for "people" page titles */
 .people-title {
 	font-size: 30px;
@@ -93,13 +130,6 @@ html, body {
 .nav-item a:hover {
 	color: #323399 !important;
 	text-decoration-thickness: .2em;
-}
-.checker {
-	border: 2px solid blue;
-	border-radius: 5px;
-	
-	/*background-color:#67a9f0b5;*/
-	/*background-color:#c1cef5;*/
 }
 .staff-container {
   	padding: 0;
@@ -231,6 +261,9 @@ html, body {
 	text-align: center;
 	margin-bottom: 0 !important;
 	font-family: 'Bebas Neue', cursive;
+}
+.post-title {
+	font-size: 6vh !important;
 }
 /* all main body content */
 .post-content {
