@@ -7,7 +7,7 @@ category: staff
 image: "/assets/staff/babb_aleeya.gif"
 ---
 
-Hi there! My name is Aleeya Babb. (Yes, that's me in the gif... not driving though, just a backseat ride!)
+Hi there! My name is Aleeya Babb. (Yes, that's me in the gif... not driving though, just a backseat ride of a lifetime!)
 
 I've been with the Auton Lab since May 2022 when I was lucky enough to spend the summer as a helicopter maintenance consultant for the Preventative Maintenance projects. I have almost 6 years of experience in the Navy where I worked as an aviation electrician on FA-18s, EA-18Gs, and MH-60Rs, with most of my experience and expertise being in the latter platform.
 

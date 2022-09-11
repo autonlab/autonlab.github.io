@@ -4,6 +4,7 @@
 	--clr-eye-lt-blue: #cdd7ef;
 	--clr-eye-dk-blue: #7197f0;
 	--clr-red: #c00000;
+	--font-title: 'Bebas Neue', cursive;
 }
 
 html, body {
@@ -111,7 +112,16 @@ html, body {
 	color: var(--clr-purple);
 	font-weight: bold;
 }
-
+/* Staff profile page/bio styling */
+.bio-container {
+	margin: auto;
+	width: 85vw;
+}
+.bio-name {
+	margin-left: 2rem;
+	font-family: var(--font-title);
+}
+/* Impact page styling */
 .impact-page-styles a:link {
 	color:#000000
 }
