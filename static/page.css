@@ -1,3 +1,11 @@
+:root {
+	--clr-purple: #323399;
+	--clr-teal: #ddf0f0;
+	--clr-eye-lt-blue: #cdd7ef;
+	--clr-eye-dk-blue: #7197f0;
+	--clr-red: #c00000;
+}
+
 html, body {
 	width: 100%;
 	overflow-x: hidden;
@@ -26,7 +34,7 @@ html, body {
 	text-decoration: none;
 }
 .carousel-item a:link, .carousel-item a:visited {
-	color: #323399 !important;
+	color: var(--clr-purple) !important;
 }
 .carousel-item a:hover {
 	text-decoration: underline;
@@ -40,7 +48,7 @@ html, body {
 	font-size: 4vh !important;
 	margin-top: 0 !important;
 	margin-bottom: 0;
-	background-color: #323399;
+	background-color: var(--clr-purple);
 	padding: .5em;
 	margin-bottom: .2em;
 }
@@ -54,7 +62,7 @@ html, body {
 	background-image: url(/assets/images/grey.png);
 }
 .checker {
-	border: 2px solid #323399;
+	border: 2px solid var(--clr-purple);
 	border-radius: 5px;
 	
 	/*background-color:#67a9f0b5;*/
@@ -80,10 +88,10 @@ html, body {
 }
 /*styling for staff blocks*/
 .staff-block {
-	border: 5px solid #8A2A2B;
+	border: 5px solid var(--clr-purple);
 	border-radius: 20px;
 	/*background-color:#8888aa;*/
-	background-color:#cfcfcf;
+	background-color: var(--clr-eye-lt-blue);
 	width: 200px;
 	text-align: center;
 	padding-top:10px;
@@ -91,7 +99,8 @@ html, body {
 }
 /*styling for staff block links*/
 .staff-block a:link {
-	color: #8A2A2B;
+	color: var(--clr-purple);
+	font-weight: bold;
 }
 /*styling for staff blocks links*/
 .staff-block a:hover {
@@ -99,7 +108,8 @@ html, body {
 }
 
 .staff-block a:visited {
-	color: #8A2A2B;
+	color: var(--clr-purple);
+	font-weight: bold;
 }
 
 .impact-page-styles a:link {

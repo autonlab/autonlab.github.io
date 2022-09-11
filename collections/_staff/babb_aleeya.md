@@ -6,3 +6,17 @@ title: Intern
 category: staff
 image: "/assets/staff/babb_aleeya.gif"
 ---
+
+Hi there! My name is Aleeya Babb. (Yes, that's me in the gif... not driving though, just a backseat ride!)
+
+I've been with the Auton Lab since May 2022 when I was lucky enough to spend the summer as a helicopter maintenance consultant for the Preventative Maintenance projects. I have almost 6 years of experience in the Navy where I worked as an aviation electrician on FA-18s, EA-18Gs, and MH-60Rs, with most of my experience and expertise being in the latter platform.
+
+Currently, I'm a Junior at the University of Pittsburgh in the College of Business Administration, where I'm pursuing a major in Business Information Systems with a concentration in Computer Science.
+
+I have recently developed a passion for website design & development, so keep an eye out for frequent updates to the website!
+
+Feel free to reach out to me on [LinkedIn][1] if you'd like to chat!
+
+
+
+[1]:<https://www.linkedin.com/in/aleeya-babb-4644021b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRilFO04hQ9%2BGoCHXN3j7hA%3D%3D>
