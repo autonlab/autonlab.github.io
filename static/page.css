@@ -123,25 +123,31 @@ html, body {
 }
 /* Impact page styling */
 .impact-page-styles a:link {
-	color:#000000
+	color: var(--clr-purple);
 }
 
 .impact-page-styles a:visited {
-	color: black;
-}
-
-.impact-page-styles a:hover {
-	font-size: large;
+	color: var(--clr-purple);
 }
 
 .impact-page-styles a {
+	text-decoration: none;
+	font-family: 'Bebas Neue', cursive;
 	font-weight: bolder;
-	text-align: center;
+	font-size: 1.7rem;
 	transition: 350ms;
+}
+
+.impact-page-styles a:hover {
+	text-decoration: 3px underline;
+	letter-spacing: .2em;
+}
+.impact-row {
+	background-image: url(/assets/images/grey.png);
 }
 /* nav item links */
 .nav-item a:link, .nav-item a:visited {
-	font-weight: bold;
+	font-weight: bolder;
 }
 /* nav item links when hovered over */
 .nav-item a {
@@ -205,11 +211,14 @@ html, body {
 }
 
 .page-wrapper {
-  margin-right: auto; 
-  margin-left:  auto; 
+	margin-left: auto;
+	margin-right: auto;
 }
+
 .content-wrapper {
-  padding:5px;
+	margin: auto;
+	width: 85vw;
+	max-width: 1200px;
 }
 
 .page-title ~ .page-title {
@@ -273,8 +282,9 @@ html, body {
 /* all page headers AND main body content */
 .post-header, .post-content {
 	background-color: white;
-	margin-left: 5vw;
-	margin-right: 5vw;
+	margin: auto;
+	width: 85vw;
+	max-width: 1000px;
 }
 /* all page headers */
 .post-header {
