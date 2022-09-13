@@ -41,6 +41,23 @@ html, body {
 	text-decoration: underline;
 	text-decoration-thickness: .1em;
 }
+/* Welcome page styling */
+.welcome-container {
+	background-image: url(/assets/images/grey.png);
+	border: 4px solid var(--clr-purple);
+	border-radius: 25px;
+}
+.welcome-container h5 {
+	margin-top: 3vh !important;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 1.7em !important;
+	text-align: center;
+}
+.welcome-container h5 ~ h5 {
+	padding-top: 3vh;
+}
+
+
 /* application areas styling */
 .application-title {
 	font-family: 'Bebas Neue', cursive;
