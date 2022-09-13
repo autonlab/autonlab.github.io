@@ -17,7 +17,7 @@ To get a flavor for the type of work happening at the lab, here is a selection o
   {% for pro in slide.projects %}
   {% assign rem = forloop.index | modulo: 2 %}
     {% if rem == 1 %}
-      <div class="row" style="background-color:#c1cef5;padding-bottom:20px">
+      <div class="row" style="background-color:#cdd7ef;padding-bottom:20px;border-radius:20px">
     {% else %}
       <div class="row" style="padding-bottom:20px">
     {% endif %}

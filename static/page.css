@@ -52,6 +52,7 @@ html, body {
 	background-color: var(--clr-purple);
 	padding: .5em;
 	margin-bottom: .2em;
+	border-radius: 20px 20px 0px 0px;
 }
 .highlighted-work-title {
 	font-family: 'Bebas Neue', cursive;
@@ -61,6 +62,8 @@ html, body {
 }
 .application-body {
 	background-image: url(/assets/images/grey.png);
+	border: 4px solid var(--clr-purple) !important;
+	border-radius: 25px !important;
 }
 .checker {
 	border: 2px solid var(--clr-purple);
