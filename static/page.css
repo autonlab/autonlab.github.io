@@ -140,7 +140,6 @@ html, body {
 
 .impact-page-styles a:hover {
 	text-decoration: 3px underline;
-	letter-spacing: .2em;
 }
 .impact-row {
 	background-image: url(/assets/images/grey.png);
