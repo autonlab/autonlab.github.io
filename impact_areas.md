@@ -10,7 +10,7 @@ Other impacts result from the educational mission of the lab and partnerships wi
     {% for slide in site.impact %}
     {% assign rem = forloop.index | modulo: 2 %}
     {% if rem == 1 %}
-    <div class="row" style="margin:auto;justify-content:center;width:100%;max-width:1000px;background-color:#cdd7ef;padding-bottom:30px;border-radius:22px">
+    <div class="row" style="margin:auto;justify-content:center;width:100%;max-width:1000px;background-color:#cdd7ef;padding-bottom:30px;border-radius:20px">
     {% else %}
     <div class="row impact-row" style="margin:auto;justify-content:center;width:100%;max-width:1000px;padding-bottom:30px;">
     {% endif %}

@@ -121,6 +121,25 @@ html, body {
 	margin-left: 2rem;
 	font-family: var(--font-title);
 }
+/* Research page styling */
+.research-container {
+	border: 4px solid var(--clr-purple);
+	border-radius: 25px;
+	background-image: url(/assets/images/grey.png);
+}
+.research-title {
+	font-family: 'Bebas Neue', cursive;
+	color: white;
+	text-align: center;
+	font-size: 4vh !important;
+	margin-top: 0 !important;
+	margin-bottom: 0;
+	background-color: var(--clr-purple);
+	padding: .5rem;
+	margin-bottom: .2rem;
+	border-radius: 20px 20px 0px 0px;
+}
+
 /* Impact page styling */
 .impact-page-styles a:link {
 	color: var(--clr-purple);
