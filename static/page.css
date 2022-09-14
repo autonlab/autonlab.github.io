@@ -243,9 +243,29 @@ html, body {
 }
 
 .career-div {
-	border: 2px solid blue;
-	border-radius:5px;
-	padding:1px;
+	border: 4px solid var(--clr-purple);
+	border-radius: 25px;
+	margin: auto;
+	padding: 0rem 2rem .1rem 2rem;
+	background-image: url(/assets/images/grey.png);
+}
+.career-div ~ .career-div {
+	margin-top: 2vh;
+}
+.career-div h4 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 1.5em !important;
+	margin-top: .5rem !important;
+}
+.career-button {
+	background-color: var(--clr-purple) !important;
+	border-color: var(--clr-purple) !important;
+	border-radius: 15px !important;
+	color: #e8e8e8 !important;
+	font-size: 1.5rem !important;
+	margin-left: 2vw !important;
+	padding: 5px 15px 5px 15px !important;
 }
 
 .page-wrapper {
