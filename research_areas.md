@@ -12,15 +12,15 @@ Our goal is to assuage these pain points to best meet the needs of potential use
 To get a flavor for the type of work happening at the lab, here is a selection of five broad application areas where we are applying our research.
 
 {% for slide in site.research %}
-<div class="row checker" style="margin:auto;justify-content:center;width:100%;max-width:1000px">
-  <h2>{{slide.title}}</h2>
+<div class="row checker research-container" style="margin:auto;justify-content:center;width:100%;max-width:1000px">
+  <h2 class="research-title">{{slide.title}}</h2>
   <img src="{{slide.splash | relative_url}}" alt="{{slide.title}}">
   <p><br/>{{slide.summary}}</p>
-  <h3>Highlighted Work</h3>
+  <h3 class="highlighted-work-title">Highlighted Work</h3>
   {% for pro in slide.projects %}
   {% assign rem = forloop.index | modulo: 2 %}
     {% if rem == 1 %}
-      <div class="row" style="background-color:#c1cef5;padding-bottom:20px">
+      <div class="row" style="background-color:#cdd7ef;padding-bottom:20px;border-radius:20px">
     {% else %}
       <div class="row" style="padding-bottom:20px">
     {% endif %}

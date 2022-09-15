@@ -41,6 +41,23 @@ html, body {
 	text-decoration: underline;
 	text-decoration-thickness: .1em;
 }
+/* Welcome page styling */
+.welcome-container {
+	background-image: url(/assets/images/grey.png);
+	border: 4px solid var(--clr-purple);
+	border-radius: 25px;
+}
+.welcome-container h5 {
+	margin-top: 3vh !important;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 1.7em !important;
+	text-align: center;
+}
+.welcome-container h5 ~ h5 {
+	padding-top: 3vh;
+}
+
+
 /* application areas styling */
 .application-title {
 	font-family: 'Bebas Neue', cursive;
@@ -52,6 +69,7 @@ html, body {
 	background-color: var(--clr-purple);
 	padding: .5em;
 	margin-bottom: .2em;
+	border-radius: 20px 20px 0px 0px;
 }
 .highlighted-work-title {
 	font-family: 'Bebas Neue', cursive;
@@ -61,6 +79,8 @@ html, body {
 }
 .application-body {
 	background-image: url(/assets/images/grey.png);
+	border: 4px solid var(--clr-purple) !important;
+	border-radius: 25px !important;
 }
 .checker {
 	border: 2px solid var(--clr-purple);
@@ -121,6 +141,25 @@ html, body {
 	margin-left: 2rem;
 	font-family: var(--font-title);
 }
+/* Research page styling */
+.research-container {
+	border: 4px solid var(--clr-purple);
+	border-radius: 25px;
+	background-image: url(/assets/images/grey.png);
+}
+.research-title {
+	font-family: 'Bebas Neue', cursive;
+	color: white;
+	text-align: center;
+	font-size: 4vh !important;
+	margin-top: 0 !important;
+	margin-bottom: 0;
+	background-color: var(--clr-purple);
+	padding: .5rem;
+	margin-bottom: .2rem;
+	border-radius: 20px 20px 0px 0px;
+}
+
 /* Impact page styling */
 .impact-page-styles a:link {
 	color: var(--clr-purple);
@@ -204,9 +243,29 @@ html, body {
 }
 
 .career-div {
-	border: 2px solid blue;
-	border-radius:5px;
-	padding:1px;
+	border: 4px solid var(--clr-purple);
+	border-radius: 25px;
+	margin: auto;
+	padding: 0rem 2rem .1rem 2rem;
+	background-image: url(/assets/images/grey.png);
+}
+.career-div ~ .career-div {
+	margin-top: 2vh;
+}
+.career-div h4 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+	font-size: 1.5em !important;
+	margin-top: .5rem !important;
+}
+.career-button {
+	background-color: var(--clr-purple) !important;
+	border-color: var(--clr-purple) !important;
+	border-radius: 15px !important;
+	color: #e8e8e8 !important;
+	font-size: 1.5rem !important;
+	margin-left: 2vw !important;
+	padding: 5px 15px 5px 15px !important;
 }
 
 .page-wrapper {

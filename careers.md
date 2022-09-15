@@ -17,7 +17,7 @@ Check out the descriptions and links below to submit your job application throug
 {% for job in filtered %}
 <div data-bs-toggle="tooltip" data-bs-placement="top" class="career-div" title="{{job.summary}}">
 
-	<h4>{{job.title}}<a class="btn btn-info" href="{{ job.apply }}">APPLY</a></h4>
+	<h4>{{job.title}}<a class="btn btn-info career-button" href="{{ job.apply }}">APPLY</a></h4>
 	<p>{{job.content}}</p>
 </div>
 {% endfor %}
