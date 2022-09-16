@@ -135,7 +135,6 @@ html, body {
 /* Staff profile page/bio styling */
 .bio-container {
 	margin: auto;
-	width: 85vw;
 }
 .bio-name {
 	margin-left: 2rem;
