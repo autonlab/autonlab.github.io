@@ -24,13 +24,13 @@ To get a flavor for the type of work happening at the lab, here is a selection o
     {% else %}
       <div class="row" style="padding-bottom:20px">
     {% endif %}
-      <h5>{{pro.name}}</h5>
+      <h5 class="pro-name">{{pro.name}}</h5>
       {% if pro.image %}
       <div class="row" style="margin:0 auto;width:100%;max-width:400px">
-        <img src="{{pro.image | relative_url}}" alt="{{pro.name}}">
+        <img src="{{pro.image | relative_url}}" alt="{{pro.name}}" class="research-img">
       </div>
       {% endif %}
-      <div class="col" style="width:100%">
+      <div class="row pro-blurb" style="width:100%">
         {{pro.blurb}}
       </div>
     </div>
