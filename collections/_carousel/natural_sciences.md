@@ -2,7 +2,7 @@
 layout: research
 title:  "AI x Natural Sciences & Knowledge Discovery"
 summary: "How can we immerse AI solutions in well-established fields of science and engineering to benefit them from the promise of AI? Automation can increase throughput and efficiency of processing vast amounts of data that informs scientific thinking. Assisted discovery can accelerate the scientific process. Among many interesting challenges that occur at the intersection of AI and fundamental sciences is the need to bridge the gap between data-driven policy and empirical science. Natural sciences evolve as our collective understanding of the universe increases, therefore it is important to ensure that AI can leverage this ever-increasing knowledge. We wish for it to be able to absorb it in its native declarative form while still being able to corroborate and contextualize these fundamental concepts using the currently prevalent AI process of learning from data."
-splash: "/assets/images/outbreak-detection.jpg"
+splash: "/assets/images/tokamak.jpg"
 projects:
   - 
     name: Cosmology
