@@ -6,7 +6,7 @@ splash: "/assets/images/health-care.jpg"
 projects:
   - 
     name: Public Health and Epidemiology
-    anchor: phs
+    anchor: phe
     image: "assets/images/mcba.png"
     blurb: "We develop statistical inference models in a long-term joint research collaboration with epidemiologists and in-hospital infection prevention experts. Our algorithms simultaneously detect emerging outbreaks and identify their most likely spread pathways by joining disparate sources of information such as genetic tests of microbial isolates, patient electronic health records, and other epidemiological information. Leveraging multiple data sources, our algorithms establish corroborating evidence to support or dismiss hypothetical outbreak scenarios, both increasing detectability and speed of analysis while maintaining low false alert rates. We also perform analytics to detect and forecast new positive cases of COVID-19 using microbiological testing of wastewater and we develop a systematic analysis capability that the Allegheny County Health Department could use in daily practice for public health surveillance."
   -
