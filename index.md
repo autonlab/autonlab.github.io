@@ -28,7 +28,7 @@ permalink: /
         {% for slide in site.carousel %}
           <div class="carousel-item{% if forloop.first %} active{% endif %}" >
 			<div class="row align-self-center slide-div" style="margin:auto;height:100%">
-        	  <img src="{{slide.splash | relative_url}}" style="margin:auto;object-fit:contain;width:100%;height:100%;max-width:1000px" alt="{{slide.title}}">
+        	  <img src="{{slide.splash | relative_url}}" style="margin:auto;object-fit:contain;width:100%;height:100%;max-height:500px" alt="{{slide.title}}">
         	</div>
         	<div class="row align-self-center slide-div" style="margin:auto;height:100%;max-width:1000px" >
       		  <h1><a href="{{slide.url | relative_url}}">{{slide.title}}</a></h1>
