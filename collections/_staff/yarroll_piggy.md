@@ -4,7 +4,7 @@ first_name: Piggy
 last_name: Yarroll
 title: Senior Research Programmer
 category: staff
-image: "/assets/images/yarroll_piggy.jpg"
+image: "/assets/staff/yarroll_piggy.jpg"
 summary: "Need a planning session?"
 ---  
 Formerly piggy@google.com.
