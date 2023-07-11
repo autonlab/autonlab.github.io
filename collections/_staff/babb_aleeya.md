@@ -11,9 +11,9 @@ Hi there! My name is Aleeya Babb. (Yes, that's me in the gif... not driving thou
 
 I've been with the Auton Lab since May 2022 when I was lucky enough to spend the summer as a helicopter maintenance consultant for the Preventative Maintenance projects. I have almost 6 years of experience in the Navy where I worked as an aviation electrician on FA-18s, EA-18Gs, and MH-60Rs, with most of my experience and expertise being in the latter platform.
 
-Currently, I'm a Junior at the University of Pittsburgh in the College of Business Administration, where I'm pursuing a major in Business Information Systems with a concentration in Computer Science.
+Currently, I'm a Senior at the University of Pittsburgh in the College of Business Administration, where I'm pursuing a major in Business Marketing with a concentration in Business Information Systems. I graduate December 2023 :)
 
-I have recently developed a passion for website design & development, so keep an eye out for frequent updates to the website!
+I have a passion for website design & development, as well as logo and graphic design, so keep an eye out for frequent updates to the website and other projects going on at the lab!
 
 Feel free to reach out to me on [LinkedIn][1] if you'd like to chat!
 
