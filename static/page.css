@@ -57,6 +57,20 @@ html, body {
 	padding-top: 3vh;
 }
 
+/* People Page margin fix */
+/*
+.wrapper { 
+	max-width: 0px !important; 
+	margin: auto !important;
+	padding-right: 0px !important; 
+	padding-left: 0px !important; }
+
+@media screen and (min-width: 800px) { 
+	.wrapper { max-width: 0px !important; 
+		padding-right: 0px !important; 
+		padding-left: 0px !important; 
+	} 
+} */
 
 /* application areas styling */
 .application-title {
