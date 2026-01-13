@@ -3,7 +3,7 @@ layout: homepage
 first_name: Sebastian
 last_name: Caldas
 title: PhD Student
-category: student
+category: alumni
 image: "/assets/staff/caldas_sebastian.jpg"
 summary: "PhD Student"
 ---
