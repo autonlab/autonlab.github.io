@@ -5,6 +5,6 @@ last_name: Welter
 title: Research Programmer
 image: "/assets/images/welter_gus.jpg"
 category: staff
-summary: "Research Programmer"
+summary: "Senior Research Programmer/Analyst"
 ---
 
