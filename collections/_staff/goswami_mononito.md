@@ -3,7 +3,7 @@ layout: homepage
 first_name: Mononito
 last_name: Goswami
 title: PhD Student
-category: student
+category: alumni
 summary: "PhD Student"
 image: "/assets/staff/goswami_mononito.jpg"
 ---
