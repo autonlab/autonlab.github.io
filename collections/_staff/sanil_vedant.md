@@ -4,7 +4,7 @@ first_name: Vedant
 last_name: Sanil
 title: Research Programmer
 image: "/assets/images/sanil_vedant.jpg"
-category: staff
+category: alumni
 summary: "Research Programmer"
 ---
 
