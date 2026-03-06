@@ -3,7 +3,7 @@ layout: homepage
 first_name: Nick
 last_name: Gisolfi
 title: Project Scientist
-category: staff
+category: alumni
 image: "/assets/images/gisolfi_nicholas.jpg"
 summary: "Project Scientist"
 ---
