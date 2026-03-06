@@ -3,7 +3,7 @@ layout: homepage
 first_name: Sophia (Qingyang)
 last_name: Cao
 title: Intern
-category: staff
+category: alumni
 image: "/assets/interns/cao-qingyang.jpeg"
 ---  
 
