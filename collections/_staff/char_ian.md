@@ -3,7 +3,7 @@ layout: homepage
 first_name: Ian
 last_name: Char
 title: PhD Student
-category: student
+category: alumni
 image: "/assets/staff/char_ian.jpeg"
 summary: "PhD Student"
 ---
