@@ -3,7 +3,7 @@ layout: homepage
 first_name: Piggy
 last_name: Yarroll
 title: Senior Research Programmer
-category: staff
+category: alumni
 image: "/assets/staff/yarroll_piggy.jpg"
 summary: "Need a planning session?"
 ---  
