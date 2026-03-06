@@ -2,7 +2,7 @@
 layout: homepage
 first_name: Abby
 last_name: Turner
-title: Research Analyst
+title: Project Scientist
 image: "/assets/images/turner_abby.jpg"
 category: staff
 ---

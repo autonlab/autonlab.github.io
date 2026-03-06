@@ -3,7 +3,7 @@ layout: homepage
 first_name: Chirag
 last_name: Nagpal
 title: PhD Student
-category: student
+category: alumni
 image: "/assets/images/nagpal_chirag.jpg"
 summary: "PhD Student"
 ---

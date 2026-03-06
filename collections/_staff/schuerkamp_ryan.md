@@ -3,7 +3,7 @@ layout: homepage
 first_name: Ryan
 last_name: Schuerkamp
 title: Intern
-category: staff
+category: alumni
 image: "/assets/interns/schuerkamp_ryan.png"
 ---
 

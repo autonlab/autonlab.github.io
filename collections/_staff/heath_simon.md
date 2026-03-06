@@ -2,6 +2,6 @@
 layout: homepage
 first_name: Simon
 last_name: Heath
-title: Research Programmer
+title: Senior Research Programmer / Analyst
 category: alumni
 ---
