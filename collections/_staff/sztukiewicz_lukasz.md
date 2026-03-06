@@ -3,6 +3,6 @@ layout: homepage
 first_name: Lukasz
 last_name: Sztukiewicz
 title: Intern
-category: staff
+category: alumni
 image: "/assets/interns/sztukiewicz_lukasz.jpg"
 ---  
