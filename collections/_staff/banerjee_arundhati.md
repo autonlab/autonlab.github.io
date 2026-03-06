@@ -3,7 +3,7 @@ layout: homepage
 first_name: Arundhati
 last_name: Banerjee
 title: PhD Student
-category: student
+category: alumni
 image: "/assets/staff/banerjee_arundhati.jpg"
 summary: "PhD Student"
 ---
