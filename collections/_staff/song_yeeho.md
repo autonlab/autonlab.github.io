@@ -4,7 +4,7 @@ first_name: Yeeho
 last_name: Song
 title: PhD Student
 image: "/assets/images/song_yeeho.jpg"
-category: student
+category: alumni
 ---
 
 [Homepage][1]
