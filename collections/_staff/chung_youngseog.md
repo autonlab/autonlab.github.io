@@ -3,7 +3,7 @@ layout: homepage
 first_name: Youngseog
 last_name: Chung
 title: PhD Student
-category: student
+category: alumni
 image: "/assets/images/chung_youngseog.jpg"
 summary: "PhD Student"
 ---
