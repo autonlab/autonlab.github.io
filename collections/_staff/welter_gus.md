@@ -1,7 +1,7 @@
 ---
 layout: homepage
-first_name: gGus
-last_name: wWelter
+first_name: Gus
+last_name: Welter
 title: Seniro Research Programmer
 image: "/assets/images/welter_gus.jpg"
 category: staff
