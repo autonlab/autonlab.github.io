@@ -29,6 +29,7 @@ collections:
     output: true
   applications:
     output: true
+    sort_by: order
   impact:
     output: true
   carousel:
