@@ -1,6 +1,7 @@
 ---
 layout: research
 title:  "Safety & Security"
+order: 3
 summary: "Our projects in this application area represent a variety of critical contexts for artificial intelligence and machine learning that are collaborations with industrial and government sponsors at the local, state, and federal level. In addition to deploying intelligent systems, part of the work in this context is defining ways to modernize existing processes to produce data that is AI-ready."
 splash: "/assets/images/ntsb.png"
 projects:
