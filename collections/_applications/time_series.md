@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Time-series Intelligence"
-summary: "We frequently encounter time dependent, sequential data of observations prior to an event of interest. The structure of this data can vary wildly, from structured but haphazardly sampled observations, high frequency, multivariate sensor data, or video data. We are interested in using this data to predict future events, detect anomalies, quantify risks, and explain anomalies."
+summary: "The Auton Lab’s work in time‑series intelligence centers on foundational and high‑impact advances in deep learning for temporal data. We developed [N‑HiTS](https://arxiv.org/abs/2201.12886) (Neural Hierarchical Interpolation for Time Series), a scalable architecture for accurate long‑horizon forecasting, and [MOMENT](https://arxiv.org/abs/2402.03885), the first open‑source foundation model for time series, inspired by the success of foundation models in natural language processing. MOMENT learns transferable representations that support forecasting, anomaly detection, classification, and imputation, and has been downloaded over **3.78 million times** since its release in 2024. Across applications ranging from econometrics and healthcare to sensor analytics, our research addresses the challenges of irregular, high‑frequency, and multivariate time‑series data to predict future events, detect anomalies, quantify risk, and explain system behavior."
 splash: "/assets/images/nhits.jpg"
 projects:
   - 
