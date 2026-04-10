@@ -1,6 +1,7 @@
 ---
 layout: research
 title:  "Health Care & Public Health"
+order: 2
 summary: "Research at the intersection of medicine and machine learning. The Auton Lab works closely with clinicians to identify opportunities for AI and ML to make an impact in medical practice and clinical research. Lab history of impact in healthcare applications goes back decades. Our lab aims to lead the field towards deploying AI in ways that are clinically relevant and help save lives."
 splash: "/assets/images/health-care.jpg"
 projects:

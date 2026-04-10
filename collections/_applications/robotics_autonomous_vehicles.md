@@ -1,6 +1,7 @@
 ---
 layout: research
 title:  "Robotics & Autonomous Vehicles"
+order: 4
 summary: "Auton Lab research on robotics systems spans perception, cognition, and actuation. Current application domains for our robotics research include autonomous trama care robots as well as autonomous vehicles."
 splash: "/assets/images/argo_cmu.jpg"
 projects:
