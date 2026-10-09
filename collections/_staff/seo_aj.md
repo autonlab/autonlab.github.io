@@ -4,7 +4,7 @@ first_name: 'Allison "AJ"'
 last_name: Seo
 title: Masters Student
 category: student
-image: "/assets/images/seo_aj.jpg"
+image: "/assets/staff/seo_aj.jpg"
 summary: "Masters Student"
 ---
 

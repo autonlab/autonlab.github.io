@@ -11,7 +11,7 @@ Faculty
 {% for member in sortedStaff %}
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
-	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{ member.first_name | escape }} {{ member.last_name | escape }}">
 	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
@@ -26,7 +26,7 @@ Faculty
 {% for member in sortedStaff %}
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
-	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{ member.first_name | escape }} {{ member.last_name | escape }}">
 	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
@@ -48,7 +48,7 @@ Students
 {% for member in sortedStaff %}
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
-	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{ member.first_name | escape }} {{ member.last_name | escape }}">
 	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
@@ -70,7 +70,7 @@ Staff
 {% for member in sortedStaff %}
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
-	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{ member.first_name | escape }} {{ member.last_name | escape }}">
 	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
@@ -92,7 +92,7 @@ Alumni
 {% for member in sortedStaff %}
 <div class="staff-block" data-bs-toggle="tooltip" data-bs-placement="top" title="{{member.summary}}">
 	{% if member.image %}
-	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{member.first_name}} {{member.last_name}}">
+	<img class="bio-img" src="{{member.image | relative_url}}" alt="{{ member.first_name | escape }} {{ member.last_name | escape }}">
 	<h4><a href="{{ member.url | relative_url}}">{{member.first_name}} {{member.last_name}}</a></h4>
 	{% else %}
 	<div class="bio-img">
